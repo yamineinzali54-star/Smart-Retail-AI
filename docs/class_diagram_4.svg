@@ -1,0 +1,366 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1947" height="1720" viewBox="0 0 1947 1720" font-family="Segoe UI, Arial, sans-serif">
+<rect x="14" y="14" width="1919" height="1692" rx="14" fill="#f4f4f4" stroke="#c4c4c4" stroke-width="2"/>
+<text x="36" y="52" font-size="16" font-weight="bold" fill="#333333">4. POS &amp; sales</text>
+<polyline points="310.0,142.6 354,142.6 354,260.1 560.5,260.1" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="457.2" y="255.1" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">user_id</text>
+<text x="327.0" y="146.1" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="543.5" y="263.6" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="310.0,279.0 372,279.0 372,308.7 560.5,308.7" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="466.2" y="303.7" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">counter_id</text>
+<text x="327.0" y="282.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="543.5" y="312.2" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="782.5,198.2 837,198.2 837,906.0 793.0,906.0" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="837.0" y="547.1" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">pos_session_id</text>
+<text x="799.5" y="201.7" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="810.0" y="909.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="793.0,627.0 855,627.0 855,368.3 1056.5,368.3" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="855.0" y="492.6" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">sale_id</text>
+<text x="810.0" y="630.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="1039.5" y="371.8" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="1161.5,180 1161.5,208.0 1161.5,208.0 1161.5,236" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="1161.5" y="203.0" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">item_id</text>
+<text x="1161.5" y="200.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="1161.5" y="222.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="782.5,1399.4 873,1399.4 873,406.1 1056.5,406.1" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="873.0" y="897.8" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">product_id</text>
+<text x="799.5" y="1402.9" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="1039.5" y="409.6" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="671.5,360 671.5,388.0 671.5,388.0 671.5,416" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="671.5" y="383.0" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">pos_session_id</text>
+<text x="671.5" y="380.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="671.5" y="402.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="776.5,466.6 891,466.6 891,651.3 1056.5,651.3" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="891.0" y="554.0" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">cart_id</text>
+<text x="793.5" y="470.1" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="1039.5" y="654.8" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="782.5,1415.4 909,1415.4 909,672.1 1056.5,672.1" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="909.0" y="1038.8" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">product_id</text>
+<text x="799.5" y="1418.9" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="1039.5" y="675.6" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="1290.0,158.6 1334,158.6 1334,653.2 1266.5,653.2" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="1334.0" y="400.9" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">item_id</text>
+<text x="1307.0" y="162.1" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="1283.5" y="656.7" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="793.0,789.0 927,789.0 927,936.2 1050.5,936.2" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="927.0" y="857.6" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">sale_id</text>
+<text x="810.0" y="792.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="1033.5" y="939.7" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="1272.5,789.0 1352,789.0 1352,232.8 1530.0,232.8" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="1352.0" y="505.9" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">return_id</text>
+<text x="1289.5" y="792.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="1513.0" y="236.3" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="1266.5,257.0 1370,257.0 1370,212.4 1530.0,212.4" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="1450.0" y="207.4" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">sale_detail_id</text>
+<text x="1283.5" y="260.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="1513.0" y="215.9" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="1290.0,174.6 1388,174.6 1388,192.0 1530.0,192.0" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="1459.0" y="187.0" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">item_id</text>
+<text x="1307.0" y="178.1" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="1513.0" y="195.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="782.5,214.2 945,214.2 945,1268.0 776.5,1268.0" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="945.0" y="736.1" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">pos_session_id</text>
+<text x="799.5" y="217.7" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="793.5" y="1271.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="310.0,158.6 390,158.6 390,1245.5 566.5,1245.5" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="390.0" y="697.0" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">outgoing_user_id</text>
+<text x="327.0" y="162.1" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="549.5" y="1249.0" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="310.0,174.6 408,174.6 408,1290.5 566.5,1290.5" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="408.0" y="727.5" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">incoming_user_id</text>
+<text x="327.0" y="178.1" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..1</text>
+<text x="549.5" y="1294.0" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="310.0,487.8 426,487.8 426,1619.2 564.0,1619.2" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="426.0" y="1048.5" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">promotion_id</text>
+<text x="327.0" y="491.3" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="547.0" y="1622.7" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="671.5,1484 671.5,1512.0 671.5,1512.0 671.5,1540" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="671.5" y="1507.0" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">product_id</text>
+<text x="671.5" y="1504.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="671.5" y="1526.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<rect x="100.0" y="90" width="210" height="90" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6" stroke-dasharray="6 4"/>
+<rect x="100.0" y="90" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="100.0" y="114" width="210" height="6" fill="#262626"/>
+<text x="205.0" y="110" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">users</text>
+<line x1="100.0" y1="120" x2="310.0" y2="120" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="100.0" y1="140" x2="310.0" y2="140" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="134" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="100.0" y1="160" x2="310.0" y2="160" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="154" font-size="11.5" fill="#1a1a1a">user_name: varchar</text>
+<line x1="100.0" y1="180" x2="310.0" y2="180" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="174" font-size="11.5" fill="#1a1a1a">role: role</text>
+<rect x="100.0" y="236" width="210" height="90" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6" stroke-dasharray="6 4"/>
+<rect x="100.0" y="236" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="100.0" y="260" width="210" height="6" fill="#262626"/>
+<text x="205.0" y="256" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">counter</text>
+<line x1="100.0" y1="266" x2="310.0" y2="266" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="100.0" y1="286" x2="310.0" y2="286" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="280" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="100.0" y1="306" x2="310.0" y2="306" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="300" font-size="11.5" fill="#1a1a1a">name: varchar</text>
+<line x1="100.0" y1="326" x2="310.0" y2="326" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="320" font-size="11.5" fill="#1a1a1a">is_active: boolean</text>
+<rect x="100.0" y="382" width="210" height="230" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="100.0" y="382" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="100.0" y="406" width="210" height="6" fill="#262626"/>
+<text x="205.0" y="402" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">promotion</text>
+<line x1="100.0" y1="412" x2="310.0" y2="412" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="100.0" y1="432" x2="310.0" y2="432" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="426" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="100.0" y1="452" x2="310.0" y2="452" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="446" font-size="11.5" fill="#1a1a1a">branchId: uuid</text>
+<line x1="100.0" y1="472" x2="310.0" y2="472" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="466" font-size="11.5" fill="#1a1a1a">name: varchar</text>
+<line x1="100.0" y1="492" x2="310.0" y2="492" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="486" font-size="11.5" fill="#1a1a1a">type: promotion_type</text>
+<line x1="100.0" y1="512" x2="310.0" y2="512" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="506" font-size="11.5" fill="#1a1a1a">value: money</text>
+<line x1="100.0" y1="532" x2="310.0" y2="532" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="526" font-size="11.5" fill="#1a1a1a">startDate: date</text>
+<line x1="100.0" y1="552" x2="310.0" y2="552" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="546" font-size="11.5" fill="#1a1a1a">endDate: date</text>
+<line x1="100.0" y1="572" x2="310.0" y2="572" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="566" font-size="11.5" fill="#1a1a1a">status: promotion_status</text>
+<line x1="100.0" y1="592" x2="310.0" y2="592" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="586" font-size="11.5" fill="#1a1a1a">isAiSuggested: boolean</text>
+<line x1="100.0" y1="612" x2="310.0" y2="612" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="606" font-size="11.5" fill="#1a1a1a">createdBy: uuid</text>
+<rect x="560.5" y="90" width="222" height="270" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="560.5" y="90" width="222" height="30" rx="3" fill="#262626"/>
+<rect x="560.5" y="114" width="222" height="6" fill="#262626"/>
+<text x="671.5" y="110" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">pos_session</text>
+<line x1="560.5" y1="120" x2="782.5" y2="120" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="560.5" y1="140" x2="782.5" y2="140" stroke="#d8d8d8" stroke-width="1"/>
+<text x="567.5" y="134" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="560.5" y1="160" x2="782.5" y2="160" stroke="#d8d8d8" stroke-width="1"/>
+<text x="567.5" y="154" font-size="11.5" fill="#1a1a1a">userId: uuid</text>
+<line x1="560.5" y1="180" x2="782.5" y2="180" stroke="#d8d8d8" stroke-width="1"/>
+<text x="567.5" y="174" font-size="11.5" fill="#1a1a1a">counterId: uuid</text>
+<line x1="560.5" y1="200" x2="782.5" y2="200" stroke="#d8d8d8" stroke-width="1"/>
+<text x="567.5" y="194" font-size="11.5" fill="#1a1a1a">branchId: uuid</text>
+<line x1="560.5" y1="220" x2="782.5" y2="220" stroke="#d8d8d8" stroke-width="1"/>
+<text x="567.5" y="214" font-size="11.5" fill="#1a1a1a">startTime: timestamp</text>
+<line x1="560.5" y1="240" x2="782.5" y2="240" stroke="#d8d8d8" stroke-width="1"/>
+<text x="567.5" y="234" font-size="11.5" fill="#1a1a1a">endTime: timestamp</text>
+<line x1="560.5" y1="260" x2="782.5" y2="260" stroke="#d8d8d8" stroke-width="1"/>
+<text x="567.5" y="254" font-size="11.5" fill="#1a1a1a">status: pos_session_status</text>
+<line x1="560.5" y1="280" x2="782.5" y2="280" stroke="#d8d8d8" stroke-width="1"/>
+<text x="567.5" y="274" font-size="11.5" fill="#1a1a1a">notes: varchar</text>
+<line x1="560.5" y1="300" x2="782.5" y2="300" stroke="#d8d8d8" stroke-width="1"/>
+<text x="567.5" y="294" font-size="11.5" fill="#1a1a1a">openingCash: money</text>
+<line x1="560.5" y1="320" x2="782.5" y2="320" stroke="#d8d8d8" stroke-width="1"/>
+<text x="567.5" y="314" font-size="11.5" fill="#1a1a1a">expectedClosingCash: money</text>
+<line x1="560.5" y1="340" x2="782.5" y2="340" stroke="#d8d8d8" stroke-width="1"/>
+<text x="567.5" y="334" font-size="11.5" fill="#1a1a1a">actualClosingCash: money</text>
+<line x1="560.5" y1="360" x2="782.5" y2="360" stroke="#d8d8d8" stroke-width="1"/>
+<text x="567.5" y="354" font-size="11.5" fill="#1a1a1a">cashDifference: money</text>
+<rect x="566.5" y="416" width="210" height="110" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="566.5" y="416" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="566.5" y="440" width="210" height="6" fill="#262626"/>
+<text x="671.5" y="436" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">cart</text>
+<line x1="566.5" y1="446" x2="776.5" y2="446" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="566.5" y1="466" x2="776.5" y2="466" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.5" y="460" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="566.5" y1="486" x2="776.5" y2="486" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.5" y="480" font-size="11.5" fill="#1a1a1a">posSessionId: uuid</text>
+<line x1="566.5" y1="506" x2="776.5" y2="506" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.5" y="500" font-size="11.5" fill="#1a1a1a">status: varchar</text>
+<line x1="566.5" y1="526" x2="776.5" y2="526" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.5" y="520" font-size="11.5" fill="#1a1a1a">label: varchar</text>
+<rect x="550.0" y="582" width="243" height="450" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="550.0" y="582" width="243" height="30" rx="3" fill="#262626"/>
+<rect x="550.0" y="606" width="243" height="6" fill="#262626"/>
+<text x="671.5" y="602" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">sale</text>
+<line x1="550.0" y1="612" x2="793.0" y2="612" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="550.0" y1="632" x2="793.0" y2="632" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="626" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="550.0" y1="652" x2="793.0" y2="652" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="646" font-size="11.5" fill="#1a1a1a">branchId: uuid</text>
+<line x1="550.0" y1="672" x2="793.0" y2="672" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="666" font-size="11.5" fill="#1a1a1a">saleNumber: varchar</text>
+<line x1="550.0" y1="692" x2="793.0" y2="692" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="686" font-size="11.5" fill="#1a1a1a">posSessionId: uuid</text>
+<line x1="550.0" y1="712" x2="793.0" y2="712" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="706" font-size="11.5" fill="#1a1a1a">subtotal: money</text>
+<line x1="550.0" y1="732" x2="793.0" y2="732" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="726" font-size="11.5" fill="#1a1a1a">discountAmount: money</text>
+<line x1="550.0" y1="752" x2="793.0" y2="752" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="746" font-size="11.5" fill="#1a1a1a">tax: money</text>
+<line x1="550.0" y1="772" x2="793.0" y2="772" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="766" font-size="11.5" fill="#1a1a1a">totalAmount: money</text>
+<line x1="550.0" y1="792" x2="793.0" y2="792" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="786" font-size="11.5" fill="#1a1a1a">roundingAdjustment: money</text>
+<line x1="550.0" y1="812" x2="793.0" y2="812" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="806" font-size="11.5" fill="#1a1a1a">grandTotal: money</text>
+<line x1="550.0" y1="832" x2="793.0" y2="832" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="826" font-size="11.5" fill="#1a1a1a">paymentMethod: payment_method</text>
+<line x1="550.0" y1="852" x2="793.0" y2="852" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="846" font-size="11.5" fill="#1a1a1a">paymentReference: varchar</text>
+<line x1="550.0" y1="872" x2="793.0" y2="872" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="866" font-size="11.5" fill="#1a1a1a">mobileProvider: varchar</text>
+<line x1="550.0" y1="892" x2="793.0" y2="892" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="886" font-size="11.5" fill="#1a1a1a">mobileTransactionId: varchar</text>
+<line x1="550.0" y1="912" x2="793.0" y2="912" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="906" font-size="11.5" fill="#1a1a1a">cashReceived: money</text>
+<line x1="550.0" y1="932" x2="793.0" y2="932" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="926" font-size="11.5" fill="#1a1a1a">cardLast4: varchar</text>
+<line x1="550.0" y1="952" x2="793.0" y2="952" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="946" font-size="11.5" fill="#1a1a1a">status: sale_status</text>
+<line x1="550.0" y1="972" x2="793.0" y2="972" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="966" font-size="11.5" fill="#1a1a1a">voidReason: varchar</text>
+<line x1="550.0" y1="992" x2="793.0" y2="992" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="986" font-size="11.5" fill="#1a1a1a">notes: text</text>
+<line x1="550.0" y1="1012" x2="793.0" y2="1012" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="1006" font-size="11.5" fill="#1a1a1a">saleDate: timestamp</text>
+<line x1="550.0" y1="1032" x2="793.0" y2="1032" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="1026" font-size="11.5" fill="#1a1a1a">createdBy: uuid</text>
+<rect x="566.5" y="1088" width="210" height="250" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="566.5" y="1088" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="566.5" y="1112" width="210" height="6" fill="#262626"/>
+<text x="671.5" y="1108" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">shift_handover</text>
+<line x1="566.5" y1="1118" x2="776.5" y2="1118" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="566.5" y1="1138" x2="776.5" y2="1138" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.5" y="1132" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="566.5" y1="1158" x2="776.5" y2="1158" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.5" y="1152" font-size="11.5" fill="#1a1a1a">branchId: uuid</text>
+<line x1="566.5" y1="1178" x2="776.5" y2="1178" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.5" y="1172" font-size="11.5" fill="#1a1a1a">posSessionId: uuid</text>
+<line x1="566.5" y1="1198" x2="776.5" y2="1198" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.5" y="1192" font-size="11.5" fill="#1a1a1a">outgoingUserId: uuid</text>
+<line x1="566.5" y1="1218" x2="776.5" y2="1218" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.5" y="1212" font-size="11.5" fill="#1a1a1a">incomingUserId: uuid</text>
+<line x1="566.5" y1="1238" x2="776.5" y2="1238" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.5" y="1232" font-size="11.5" fill="#1a1a1a">expectedCash: money</text>
+<line x1="566.5" y1="1258" x2="776.5" y2="1258" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.5" y="1252" font-size="11.5" fill="#1a1a1a">blindCount: money</text>
+<line x1="566.5" y1="1278" x2="776.5" y2="1278" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.5" y="1272" font-size="11.5" fill="#1a1a1a">difference: money</text>
+<line x1="566.5" y1="1298" x2="776.5" y2="1298" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.5" y="1292" font-size="11.5" fill="#1a1a1a">notes: varchar</text>
+<line x1="566.5" y1="1318" x2="776.5" y2="1318" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.5" y="1312" font-size="11.5" fill="#1a1a1a">handedAt: timestamp</text>
+<line x1="566.5" y1="1338" x2="776.5" y2="1338" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.5" y="1332" font-size="11.5" fill="#1a1a1a">createdBy: uuid</text>
+<rect x="560.5" y="1394" width="222" height="90" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6" stroke-dasharray="6 4"/>
+<rect x="560.5" y="1394" width="222" height="30" rx="3" fill="#262626"/>
+<rect x="560.5" y="1418" width="222" height="6" fill="#262626"/>
+<text x="671.5" y="1414" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">products</text>
+<line x1="560.5" y1="1424" x2="782.5" y2="1424" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="560.5" y1="1444" x2="782.5" y2="1444" stroke="#d8d8d8" stroke-width="1"/>
+<text x="567.5" y="1438" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="560.5" y1="1464" x2="782.5" y2="1464" stroke="#d8d8d8" stroke-width="1"/>
+<text x="567.5" y="1458" font-size="11.5" fill="#1a1a1a">name: varchar</text>
+<line x1="560.5" y1="1484" x2="782.5" y2="1484" stroke="#d8d8d8" stroke-width="1"/>
+<text x="567.5" y="1478" font-size="11.5" fill="#1a1a1a">reorder_threshold: integer</text>
+<rect x="564.0" y="1540" width="215" height="110" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="564.0" y="1540" width="215" height="30" rx="3" fill="#262626"/>
+<rect x="564.0" y="1564" width="215" height="6" fill="#262626"/>
+<text x="671.5" y="1560" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">promotion_product</text>
+<line x1="564.0" y1="1570" x2="779.0" y2="1570" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="564.0" y1="1590" x2="779.0" y2="1590" stroke="#d8d8d8" stroke-width="1"/>
+<text x="571.0" y="1584" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="564.0" y1="1610" x2="779.0" y2="1610" stroke="#d8d8d8" stroke-width="1"/>
+<text x="571.0" y="1604" font-size="11.5" fill="#1a1a1a">promotionId: uuid</text>
+<line x1="564.0" y1="1630" x2="779.0" y2="1630" stroke="#d8d8d8" stroke-width="1"/>
+<text x="571.0" y="1624" font-size="11.5" fill="#1a1a1a">productId: uuid</text>
+<line x1="564.0" y1="1650" x2="779.0" y2="1650" stroke="#d8d8d8" stroke-width="1"/>
+<text x="571.0" y="1644" font-size="11.5" fill="#1a1a1a">requiredQuantity: integer</text>
+<rect x="1033.0" y="90" width="257" height="90" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6" stroke-dasharray="6 4"/>
+<rect x="1033.0" y="90" width="257" height="30" rx="3" fill="#262626"/>
+<rect x="1033.0" y="114" width="257" height="6" fill="#262626"/>
+<text x="1161.5" y="110" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">items</text>
+<line x1="1033.0" y1="120" x2="1290.0" y2="120" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="1033.0" y1="140" x2="1290.0" y2="140" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1040.0" y="134" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="1033.0" y1="160" x2="1290.0" y2="160" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1040.0" y="154" font-size="11.5" fill="#1a1a1a">barcode: varchar</text>
+<line x1="1033.0" y1="180" x2="1290.0" y2="180" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1040.0" y="174" font-size="11.5" fill="#1a1a1a">current_stock_quantity: integer</text>
+<rect x="1056.5" y="236" width="210" height="210" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="1056.5" y="236" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="1056.5" y="260" width="210" height="6" fill="#262626"/>
+<text x="1161.5" y="256" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">sale_detail</text>
+<line x1="1056.5" y1="266" x2="1266.5" y2="266" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="1056.5" y1="286" x2="1266.5" y2="286" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="280" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="1056.5" y1="306" x2="1266.5" y2="306" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="300" font-size="11.5" fill="#1a1a1a">saleId: uuid</text>
+<line x1="1056.5" y1="326" x2="1266.5" y2="326" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="320" font-size="11.5" fill="#1a1a1a">itemId: uuid</text>
+<line x1="1056.5" y1="346" x2="1266.5" y2="346" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="340" font-size="11.5" fill="#1a1a1a">productId: uuid</text>
+<line x1="1056.5" y1="366" x2="1266.5" y2="366" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="360" font-size="11.5" fill="#1a1a1a">quantity: integer</text>
+<line x1="1056.5" y1="386" x2="1266.5" y2="386" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="380" font-size="11.5" fill="#1a1a1a">unitPrice: money</text>
+<line x1="1056.5" y1="406" x2="1266.5" y2="406" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="400" font-size="11.5" fill="#1a1a1a">discount: money</text>
+<line x1="1056.5" y1="426" x2="1266.5" y2="426" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="420" font-size="11.5" fill="#1a1a1a">taxRateApplied: numeric</text>
+<line x1="1056.5" y1="446" x2="1266.5" y2="446" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="440" font-size="11.5" fill="#1a1a1a">lineTotal: money</text>
+<rect x="1056.5" y="502" width="210" height="210" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="1056.5" y="502" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="1056.5" y="526" width="210" height="6" fill="#262626"/>
+<text x="1161.5" y="522" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">cart_item</text>
+<line x1="1056.5" y1="532" x2="1266.5" y2="532" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="1056.5" y1="552" x2="1266.5" y2="552" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="546" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="1056.5" y1="572" x2="1266.5" y2="572" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="566" font-size="11.5" fill="#1a1a1a">cartId: uuid</text>
+<line x1="1056.5" y1="592" x2="1266.5" y2="592" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="586" font-size="11.5" fill="#1a1a1a">productId: uuid</text>
+<line x1="1056.5" y1="612" x2="1266.5" y2="612" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="606" font-size="11.5" fill="#1a1a1a">itemId: uuid</text>
+<line x1="1056.5" y1="632" x2="1266.5" y2="632" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="626" font-size="11.5" fill="#1a1a1a">quantity: integer</text>
+<line x1="1056.5" y1="652" x2="1266.5" y2="652" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="646" font-size="11.5" fill="#1a1a1a">unitPrice: money</text>
+<line x1="1056.5" y1="672" x2="1266.5" y2="672" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="666" font-size="11.5" fill="#1a1a1a">appliedPromotionId: uuid</text>
+<line x1="1056.5" y1="692" x2="1266.5" y2="692" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="686" font-size="11.5" fill="#1a1a1a">taxRateApplied: numeric</text>
+<line x1="1056.5" y1="712" x2="1266.5" y2="712" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1063.5" y="706" font-size="11.5" fill="#1a1a1a">totalPrice: money</text>
+<rect x="1050.5" y="768" width="222" height="210" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="1050.5" y="768" width="222" height="30" rx="3" fill="#262626"/>
+<rect x="1050.5" y="792" width="222" height="6" fill="#262626"/>
+<text x="1161.5" y="788" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">sale_return</text>
+<line x1="1050.5" y1="798" x2="1272.5" y2="798" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="1050.5" y1="818" x2="1272.5" y2="818" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1057.5" y="812" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="1050.5" y1="838" x2="1272.5" y2="838" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1057.5" y="832" font-size="11.5" fill="#1a1a1a">branchId: uuid</text>
+<line x1="1050.5" y1="858" x2="1272.5" y2="858" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1057.5" y="852" font-size="11.5" fill="#1a1a1a">returnNumber: varchar</text>
+<line x1="1050.5" y1="878" x2="1272.5" y2="878" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1057.5" y="872" font-size="11.5" fill="#1a1a1a">saleId: uuid</text>
+<line x1="1050.5" y1="898" x2="1272.5" y2="898" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1057.5" y="892" font-size="11.5" fill="#1a1a1a">reason: varchar</text>
+<line x1="1050.5" y1="918" x2="1272.5" y2="918" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1057.5" y="912" font-size="11.5" fill="#1a1a1a">status: sale_return_status</text>
+<line x1="1050.5" y1="938" x2="1272.5" y2="938" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1057.5" y="932" font-size="11.5" fill="#1a1a1a">refundAmount: money</text>
+<line x1="1050.5" y1="958" x2="1272.5" y2="958" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1057.5" y="952" font-size="11.5" fill="#1a1a1a">createdBy: uuid</text>
+<line x1="1050.5" y1="978" x2="1272.5" y2="978" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1057.5" y="972" font-size="11.5" fill="#1a1a1a">approvedBy: uuid</text>
+<rect x="1530.0" y="90" width="257" height="170" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="1530.0" y="90" width="257" height="30" rx="3" fill="#262626"/>
+<rect x="1530.0" y="114" width="257" height="6" fill="#262626"/>
+<text x="1658.5" y="110" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">sale_return_detail</text>
+<line x1="1530.0" y1="120" x2="1787.0" y2="120" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="1530.0" y1="140" x2="1787.0" y2="140" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1537.0" y="134" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="1530.0" y1="160" x2="1787.0" y2="160" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1537.0" y="154" font-size="11.5" fill="#1a1a1a">returnId: uuid</text>
+<line x1="1530.0" y1="180" x2="1787.0" y2="180" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1537.0" y="174" font-size="11.5" fill="#1a1a1a">saleDetailId: uuid</text>
+<line x1="1530.0" y1="200" x2="1787.0" y2="200" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1537.0" y="194" font-size="11.5" fill="#1a1a1a">itemId: uuid</text>
+<line x1="1530.0" y1="220" x2="1787.0" y2="220" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1537.0" y="214" font-size="11.5" fill="#1a1a1a">quantity: integer</text>
+<line x1="1530.0" y1="240" x2="1787.0" y2="240" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1537.0" y="234" font-size="11.5" fill="#1a1a1a">refundAmount: money</text>
+<line x1="1530.0" y1="260" x2="1787.0" y2="260" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1537.0" y="254" font-size="11.5" fill="#1a1a1a">disposition: return_disposition</text>
+</svg>

@@ -1,0 +1,3 @@
+-- No-op: staff_attendance and its indexes were already created in
+-- 0017_inventory_attendance.sql. This journal entry is retained so databases
+-- that stopped at migration 0017 can continue to 0019 without recreating them.

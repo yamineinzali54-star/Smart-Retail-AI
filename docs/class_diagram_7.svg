@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1506" height="836" viewBox="0 0 1506 836" font-family="Segoe UI, Arial, sans-serif">
+<rect x="14" y="14" width="1478" height="808" rx="14" fill="#f4f4f4" stroke="#c4c4c4" stroke-width="2"/>
+<text x="36" y="52" font-size="16" font-weight="bold" fill="#333333">7. AI</text>
+<polyline points="378.0,241.8 422,241.8 422,457.2 618.0,457.2" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="422.0" y="344.5" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">api_key_id</text>
+<text x="395.0" y="245.3" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="601.0" y="460.7" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="344.0,517.4 440,517.4 440,735.2 652.0,735.2" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="440.0" y="621.3" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">user_id</text>
+<text x="361.0" y="520.9" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="635.0" y="738.7" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="862.0,667.0 940,667.0 940,227.7 1136.0,227.7" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="940.0" y="442.4" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">conversation_id</text>
+<text x="879.0" y="670.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="1119.0" y="231.2" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="896.0,175.0 958,175.0 958,197.1 1136.0,197.1" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="1047.0" y="192.1" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">model_id</text>
+<text x="913.0" y="178.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..1</text>
+<text x="1119.0" y="200.6" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<rect x="100.0" y="90" width="278" height="330" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="100.0" y="90" width="278" height="30" rx="3" fill="#262626"/>
+<rect x="100.0" y="114" width="278" height="6" fill="#262626"/>
+<text x="239.0" y="110" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">ai_api_key</text>
+<line x1="100.0" y1="120" x2="378.0" y2="120" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="100.0" y1="140" x2="378.0" y2="140" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="134" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="100.0" y1="160" x2="378.0" y2="160" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="154" font-size="11.5" fill="#1a1a1a">provider: varchar</text>
+<line x1="100.0" y1="180" x2="378.0" y2="180" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="174" font-size="11.5" fill="#1a1a1a">label: varchar</text>
+<line x1="100.0" y1="200" x2="378.0" y2="200" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="194" font-size="11.5" fill="#1a1a1a">keyPurpose: varchar</text>
+<line x1="100.0" y1="220" x2="378.0" y2="220" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="214" font-size="11.5" fill="#1a1a1a">permissions: varchar</text>
+<line x1="100.0" y1="240" x2="378.0" y2="240" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="234" font-size="11.5" fill="#1a1a1a">apiKey: text</text>
+<line x1="100.0" y1="260" x2="378.0" y2="260" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="254" font-size="11.5" fill="#1a1a1a">expiresAt: timestamp</text>
+<line x1="100.0" y1="280" x2="378.0" y2="280" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="274" font-size="11.5" fill="#1a1a1a">isActive: boolean</text>
+<line x1="100.0" y1="300" x2="378.0" y2="300" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="294" font-size="11.5" fill="#1a1a1a">lastCheckedAt: timestamp</text>
+<line x1="100.0" y1="320" x2="378.0" y2="320" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="314" font-size="11.5" fill="#1a1a1a">lastCheckStatus: varchar</text>
+<line x1="100.0" y1="340" x2="378.0" y2="340" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="334" font-size="11.5" fill="#1a1a1a">providerLimitsSnapshot: jsonb</text>
+<line x1="100.0" y1="360" x2="378.0" y2="360" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="354" font-size="11.5" fill="#1a1a1a">providerLimitsCheckedAt: timestamp</text>
+<line x1="100.0" y1="380" x2="378.0" y2="380" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="374" font-size="11.5" fill="#1a1a1a">providerLimitsStatus: varchar</text>
+<line x1="100.0" y1="400" x2="378.0" y2="400" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="394" font-size="11.5" fill="#1a1a1a">createdBy: uuid</text>
+<line x1="100.0" y1="420" x2="378.0" y2="420" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="414" font-size="11.5" fill="#1a1a1a">updatedBy: uuid</text>
+<rect x="134.0" y="476" width="210" height="90" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6" stroke-dasharray="6 4"/>
+<rect x="134.0" y="476" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="134.0" y="500" width="210" height="6" fill="#262626"/>
+<text x="239.0" y="496" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">users</text>
+<line x1="134.0" y1="506" x2="344.0" y2="506" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="134.0" y1="526" x2="344.0" y2="526" stroke="#d8d8d8" stroke-width="1"/>
+<text x="141.0" y="520" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="134.0" y1="546" x2="344.0" y2="546" stroke="#d8d8d8" stroke-width="1"/>
+<text x="141.0" y="540" font-size="11.5" fill="#1a1a1a">user_name: varchar</text>
+<line x1="134.0" y1="566" x2="344.0" y2="566" stroke="#d8d8d8" stroke-width="1"/>
+<text x="141.0" y="560" font-size="11.5" fill="#1a1a1a">role: role</text>
+<rect x="618.0" y="90" width="278" height="510" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="618.0" y="90" width="278" height="30" rx="3" fill="#262626"/>
+<rect x="618.0" y="114" width="278" height="6" fill="#262626"/>
+<text x="757.0" y="110" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">ai_model</text>
+<line x1="618.0" y1="120" x2="896.0" y2="120" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="618.0" y1="140" x2="896.0" y2="140" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="134" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="618.0" y1="160" x2="896.0" y2="160" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="154" font-size="11.5" fill="#1a1a1a">provider: varchar</text>
+<line x1="618.0" y1="180" x2="896.0" y2="180" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="174" font-size="11.5" fill="#1a1a1a">apiKeyId: uuid</text>
+<line x1="618.0" y1="200" x2="896.0" y2="200" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="194" font-size="11.5" fill="#1a1a1a">modelName: varchar</text>
+<line x1="618.0" y1="220" x2="896.0" y2="220" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="214" font-size="11.5" fill="#1a1a1a">displayName: varchar</text>
+<line x1="618.0" y1="240" x2="896.0" y2="240" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="234" font-size="11.5" fill="#1a1a1a">providerContextLength: integer</text>
+<line x1="618.0" y1="260" x2="896.0" y2="260" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="254" font-size="11.5" fill="#1a1a1a">providerMaxOutputTokens: integer</text>
+<line x1="618.0" y1="280" x2="896.0" y2="280" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="274" font-size="11.5" fill="#1a1a1a">providerRequestLimits: jsonb</text>
+<line x1="618.0" y1="300" x2="896.0" y2="300" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="294" font-size="11.5" fill="#1a1a1a">providerLimitsCheckedAt: timestamp</text>
+<line x1="618.0" y1="320" x2="896.0" y2="320" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="314" font-size="11.5" fill="#1a1a1a">requestsToday: integer</text>
+<line x1="618.0" y1="340" x2="896.0" y2="340" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="334" font-size="11.5" fill="#1a1a1a">requestsThisMonth: integer</text>
+<line x1="618.0" y1="360" x2="896.0" y2="360" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="354" font-size="11.5" fill="#1a1a1a">totalTokensToday: bigint</text>
+<line x1="618.0" y1="380" x2="896.0" y2="380" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="374" font-size="11.5" fill="#1a1a1a">totalTokensThisMonth: bigint</text>
+<line x1="618.0" y1="400" x2="896.0" y2="400" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="394" font-size="11.5" fill="#1a1a1a">costUsdToday: numeric</text>
+<line x1="618.0" y1="420" x2="896.0" y2="420" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="414" font-size="11.5" fill="#1a1a1a">costUsdThisMonth: numeric</text>
+<line x1="618.0" y1="440" x2="896.0" y2="440" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="434" font-size="11.5" fill="#1a1a1a">costReportedToday: boolean</text>
+<line x1="618.0" y1="460" x2="896.0" y2="460" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="454" font-size="11.5" fill="#1a1a1a">costReportedThisMonth: boolean</text>
+<line x1="618.0" y1="480" x2="896.0" y2="480" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="474" font-size="11.5" fill="#1a1a1a">usageDay: date</text>
+<line x1="618.0" y1="500" x2="896.0" y2="500" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="494" font-size="11.5" fill="#1a1a1a">usageMonth: date</text>
+<line x1="618.0" y1="520" x2="896.0" y2="520" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="514" font-size="11.5" fill="#1a1a1a">isActive: boolean</text>
+<line x1="618.0" y1="540" x2="896.0" y2="540" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="534" font-size="11.5" fill="#1a1a1a">isDefault: boolean</text>
+<line x1="618.0" y1="560" x2="896.0" y2="560" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="554" font-size="11.5" fill="#1a1a1a">sortOrder: integer</text>
+<line x1="618.0" y1="580" x2="896.0" y2="580" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="574" font-size="11.5" fill="#1a1a1a">createdBy: uuid</text>
+<line x1="618.0" y1="600" x2="896.0" y2="600" stroke="#d8d8d8" stroke-width="1"/>
+<text x="625.0" y="594" font-size="11.5" fill="#1a1a1a">updatedBy: uuid</text>
+<rect x="652.0" y="656" width="210" height="110" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="652.0" y="656" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="652.0" y="680" width="210" height="6" fill="#262626"/>
+<text x="757.0" y="676" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">ai_chat_conversation</text>
+<line x1="652.0" y1="686" x2="862.0" y2="686" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="652.0" y1="706" x2="862.0" y2="706" stroke="#d8d8d8" stroke-width="1"/>
+<text x="659.0" y="700" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="652.0" y1="726" x2="862.0" y2="726" stroke="#d8d8d8" stroke-width="1"/>
+<text x="659.0" y="720" font-size="11.5" fill="#1a1a1a">branchId: uuid</text>
+<line x1="652.0" y1="746" x2="862.0" y2="746" stroke="#d8d8d8" stroke-width="1"/>
+<text x="659.0" y="740" font-size="11.5" fill="#1a1a1a">userId: uuid</text>
+<line x1="652.0" y1="766" x2="862.0" y2="766" stroke="#d8d8d8" stroke-width="1"/>
+<text x="659.0" y="760" font-size="11.5" fill="#1a1a1a">title: varchar</text>
+<rect x="1136.0" y="90" width="210" height="170" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="1136.0" y="90" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="1136.0" y="114" width="210" height="6" fill="#262626"/>
+<text x="1241.0" y="110" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">ai_chat_message</text>
+<line x1="1136.0" y1="120" x2="1346.0" y2="120" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="1136.0" y1="140" x2="1346.0" y2="140" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1143.0" y="134" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="1136.0" y1="160" x2="1346.0" y2="160" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1143.0" y="154" font-size="11.5" fill="#1a1a1a">conversationId: uuid</text>
+<line x1="1136.0" y1="180" x2="1346.0" y2="180" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1143.0" y="174" font-size="11.5" fill="#1a1a1a">role: varchar</text>
+<line x1="1136.0" y1="200" x2="1346.0" y2="200" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1143.0" y="194" font-size="11.5" fill="#1a1a1a">content: text</text>
+<line x1="1136.0" y1="220" x2="1346.0" y2="220" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1143.0" y="214" font-size="11.5" fill="#1a1a1a">status: varchar</text>
+<line x1="1136.0" y1="240" x2="1346.0" y2="240" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1143.0" y="234" font-size="11.5" fill="#1a1a1a">modelId: uuid</text>
+<line x1="1136.0" y1="260" x2="1346.0" y2="260" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1143.0" y="254" font-size="11.5" fill="#1a1a1a">metadata: jsonb</text>
+</svg>

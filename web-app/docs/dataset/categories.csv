@@ -1,0 +1,7 @@
+name,short_name,tax_rate,is_tax_exempt
+Health and beauty,HAB,5.00,false
+Electronic accessories,ELE,5.00,false
+Home and lifestyle,HML,5.00,false
+Sports and travel,SPT,5.00,false
+Food and beverages,FAB,5.00,false
+Fashion accessories,FAS,5.00,false

@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1417" height="968" viewBox="0 0 1417 968" font-family="Segoe UI, Arial, sans-serif">
+<rect x="14" y="14" width="1389" height="940" rx="14" fill="#f4f4f4" stroke="#c4c4c4" stroke-width="2"/>
+<text x="36" y="52" font-size="16" font-weight="bold" fill="#333333">5. Finance &amp; expenses</text>
+<polyline points="310.0,247.0 354,247.0 354,222.3 550.0,222.3" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="452.0" y="217.3" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">category_id</text>
+<text x="327.0" y="250.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="533.0" y="225.8" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="310.0,423.0 372,423.0 372,277.1 550.0,277.1" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="461.0" y="272.1" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">float_id</text>
+<text x="327.0" y="426.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..1</text>
+<text x="533.0" y="280.6" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="310.0,303.6 390,303.6 390,449.6 573.5,449.6" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="481.8" y="444.6" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">category_id</text>
+<text x="327.0" y="307.1" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="556.5" y="453.1" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="783.5,559.0 851,559.0 851,171.9 1047.0,171.9" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="851.0" y="360.4" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">entry_id</text>
+<text x="800.5" y="562.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="1030.0" y="175.4" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="783.5,781.0 869,781.0 869,195.3 1047.0,195.3" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="869.0" y="483.1" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">account_id</text>
+<text x="800.5" y="784.5" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="1030.0" y="198.8" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<polyline points="310.0,131.4 408,131.4 408,553.2 310.0,553.2" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<text x="408.0" y="337.3" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">holder_user_id</text>
+<text x="327.0" y="134.9" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">1</text>
+<text x="327.0" y="556.7" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">0..*</text>
+<rect x="100.0" y="90" width="210" height="90" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6" stroke-dasharray="6 4"/>
+<rect x="100.0" y="90" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="100.0" y="114" width="210" height="6" fill="#262626"/>
+<text x="205.0" y="110" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">users</text>
+<line x1="100.0" y1="120" x2="310.0" y2="120" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="100.0" y1="140" x2="310.0" y2="140" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="134" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="100.0" y1="160" x2="310.0" y2="160" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="154" font-size="11.5" fill="#1a1a1a">user_name: varchar</text>
+<line x1="100.0" y1="180" x2="310.0" y2="180" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="174" font-size="11.5" fill="#1a1a1a">role: role</text>
+<rect x="100.0" y="236" width="210" height="110" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="100.0" y="236" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="100.0" y="260" width="210" height="6" fill="#262626"/>
+<text x="205.0" y="256" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">expense_category</text>
+<line x1="100.0" y1="266" x2="310.0" y2="266" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="100.0" y1="286" x2="310.0" y2="286" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="280" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="100.0" y1="306" x2="310.0" y2="306" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="300" font-size="11.5" fill="#1a1a1a">branchId: uuid</text>
+<line x1="100.0" y1="326" x2="310.0" y2="326" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="320" font-size="11.5" fill="#1a1a1a">name: varchar</text>
+<line x1="100.0" y1="346" x2="310.0" y2="346" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="340" font-size="11.5" fill="#1a1a1a">isDeleted: boolean</text>
+<rect x="100.0" y="402" width="210" height="210" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="100.0" y="402" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="100.0" y="426" width="210" height="6" fill="#262626"/>
+<text x="205.0" y="422" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">petty_cash_float</text>
+<line x1="100.0" y1="432" x2="310.0" y2="432" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="100.0" y1="452" x2="310.0" y2="452" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="446" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="100.0" y1="472" x2="310.0" y2="472" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="466" font-size="11.5" fill="#1a1a1a">branchId: uuid</text>
+<line x1="100.0" y1="492" x2="310.0" y2="492" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="486" font-size="11.5" fill="#1a1a1a">holderUserId: uuid</text>
+<line x1="100.0" y1="512" x2="310.0" y2="512" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="506" font-size="11.5" fill="#1a1a1a">issuedAmount: money</text>
+<line x1="100.0" y1="532" x2="310.0" y2="532" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="526" font-size="11.5" fill="#1a1a1a">status: varchar</text>
+<line x1="100.0" y1="552" x2="310.0" y2="552" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="546" font-size="11.5" fill="#1a1a1a">returnedAmount: money</text>
+<line x1="100.0" y1="572" x2="310.0" y2="572" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="566" font-size="11.5" fill="#1a1a1a">closedAt: timestamp</text>
+<line x1="100.0" y1="592" x2="310.0" y2="592" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="586" font-size="11.5" fill="#1a1a1a">notes: varchar</text>
+<line x1="100.0" y1="612" x2="310.0" y2="612" stroke="#d8d8d8" stroke-width="1"/>
+<text x="107.0" y="606" font-size="11.5" fill="#1a1a1a">createdBy: uuid</text>
+<rect x="550.0" y="90" width="257" height="210" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="550.0" y="90" width="257" height="30" rx="3" fill="#262626"/>
+<rect x="550.0" y="114" width="257" height="6" fill="#262626"/>
+<text x="678.5" y="110" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">expense</text>
+<line x1="550.0" y1="120" x2="807.0" y2="120" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="550.0" y1="140" x2="807.0" y2="140" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="134" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="550.0" y1="160" x2="807.0" y2="160" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="154" font-size="11.5" fill="#1a1a1a">branchId: uuid</text>
+<line x1="550.0" y1="180" x2="807.0" y2="180" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="174" font-size="11.5" fill="#1a1a1a">categoryId: uuid</text>
+<line x1="550.0" y1="200" x2="807.0" y2="200" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="194" font-size="11.5" fill="#1a1a1a">floatId: uuid</text>
+<line x1="550.0" y1="220" x2="807.0" y2="220" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="214" font-size="11.5" fill="#1a1a1a">amount: money</text>
+<line x1="550.0" y1="240" x2="807.0" y2="240" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="234" font-size="11.5" fill="#1a1a1a">expenseDate: date</text>
+<line x1="550.0" y1="260" x2="807.0" y2="260" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="254" font-size="11.5" fill="#1a1a1a">method: supplier_payment_method</text>
+<line x1="550.0" y1="280" x2="807.0" y2="280" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="274" font-size="11.5" fill="#1a1a1a">notes: varchar</text>
+<line x1="550.0" y1="300" x2="807.0" y2="300" stroke="#d8d8d8" stroke-width="1"/>
+<text x="557.0" y="294" font-size="11.5" fill="#1a1a1a">recordedBy: uuid</text>
+<rect x="573.5" y="356" width="210" height="130" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="573.5" y="356" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="573.5" y="380" width="210" height="6" fill="#262626"/>
+<text x="678.5" y="376" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">expense_budget</text>
+<line x1="573.5" y1="386" x2="783.5" y2="386" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="573.5" y1="406" x2="783.5" y2="406" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="400" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="573.5" y1="426" x2="783.5" y2="426" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="420" font-size="11.5" fill="#1a1a1a">branchId: uuid</text>
+<line x1="573.5" y1="446" x2="783.5" y2="446" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="440" font-size="11.5" fill="#1a1a1a">categoryId: uuid</text>
+<line x1="573.5" y1="466" x2="783.5" y2="466" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="460" font-size="11.5" fill="#1a1a1a">month: varchar</text>
+<line x1="573.5" y1="486" x2="783.5" y2="486" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="480" font-size="11.5" fill="#1a1a1a">limitAmount: money</text>
+<rect x="573.5" y="542" width="210" height="170" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="573.5" y="542" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="573.5" y="566" width="210" height="6" fill="#262626"/>
+<text x="678.5" y="562" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">journal_entry</text>
+<line x1="573.5" y1="572" x2="783.5" y2="572" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="573.5" y1="592" x2="783.5" y2="592" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="586" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="573.5" y1="612" x2="783.5" y2="612" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="606" font-size="11.5" fill="#1a1a1a">branchId: uuid</text>
+<line x1="573.5" y1="632" x2="783.5" y2="632" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="626" font-size="11.5" fill="#1a1a1a">entryDate: timestamp</text>
+<line x1="573.5" y1="652" x2="783.5" y2="652" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="646" font-size="11.5" fill="#1a1a1a">refType: varchar</text>
+<line x1="573.5" y1="672" x2="783.5" y2="672" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="666" font-size="11.5" fill="#1a1a1a">refId: varchar</text>
+<line x1="573.5" y1="692" x2="783.5" y2="692" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="686" font-size="11.5" fill="#1a1a1a">memo: varchar</text>
+<line x1="573.5" y1="712" x2="783.5" y2="712" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="706" font-size="11.5" fill="#1a1a1a">createdBy: uuid</text>
+<rect x="573.5" y="768" width="210" height="130" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="573.5" y="768" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="573.5" y="792" width="210" height="6" fill="#262626"/>
+<text x="678.5" y="788" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">gl_account</text>
+<line x1="573.5" y1="798" x2="783.5" y2="798" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="573.5" y1="818" x2="783.5" y2="818" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="812" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="573.5" y1="838" x2="783.5" y2="838" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="832" font-size="11.5" fill="#1a1a1a">code: varchar</text>
+<line x1="573.5" y1="858" x2="783.5" y2="858" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="852" font-size="11.5" fill="#1a1a1a">name: varchar</text>
+<line x1="573.5" y1="878" x2="783.5" y2="878" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="872" font-size="11.5" fill="#1a1a1a">type: gl_account_type</text>
+<line x1="573.5" y1="898" x2="783.5" y2="898" stroke="#d8d8d8" stroke-width="1"/>
+<text x="580.5" y="892" font-size="11.5" fill="#1a1a1a">isDeleted: boolean</text>
+<rect x="1047.0" y="90" width="210" height="130" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="1047.0" y="90" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="1047.0" y="114" width="210" height="6" fill="#262626"/>
+<text x="1152.0" y="110" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">journal_line</text>
+<line x1="1047.0" y1="120" x2="1257.0" y2="120" stroke="#4d4d4d" stroke-width="1.4"/>
+<line x1="1047.0" y1="140" x2="1257.0" y2="140" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1054.0" y="134" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id: uuid</text>
+<line x1="1047.0" y1="160" x2="1257.0" y2="160" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1054.0" y="154" font-size="11.5" fill="#1a1a1a">entryId: uuid</text>
+<line x1="1047.0" y1="180" x2="1257.0" y2="180" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1054.0" y="174" font-size="11.5" fill="#1a1a1a">accountId: uuid</text>
+<line x1="1047.0" y1="200" x2="1257.0" y2="200" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1054.0" y="194" font-size="11.5" fill="#1a1a1a">debit: money</text>
+<line x1="1047.0" y1="220" x2="1257.0" y2="220" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1054.0" y="214" font-size="11.5" fill="#1a1a1a">credit: money</text>
+</svg>

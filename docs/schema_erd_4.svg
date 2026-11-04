@@ -1,0 +1,463 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1834" height="1720" viewBox="0 0 1834 1720" font-family="Segoe UI, Arial, sans-serif">
+<rect x="14" y="14" width="1806" height="1692" rx="14" fill="#f4f4f4" stroke="#c4c4c4" stroke-width="2"/>
+<text x="36" y="52" font-size="16" font-weight="bold" fill="#333333">4. POS &amp; sales</text>
+<polyline points="310.0,142.6 354,142.6 354,260.1 550.0,260.1" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="319.0" y1="135.596" x2="319.0" y2="149.596" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 536.0 260.1 L 550.0 267.1 M 536.0 260.1 L 550.0 260.1 M 536.0 260.1 L 550.0 253.1" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="529.0" cy="260.1" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="452.0" y="255.1" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">user_id</text>
+<polyline points="310.0,279.0 372,279.0 372,308.7 550.0,308.7" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="319.0" y1="272.002" x2="319.0" y2="286.002" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 536.0 308.7 L 550.0 315.7 M 536.0 308.7 L 550.0 308.7 M 536.0 308.7 L 550.0 301.7" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="529.0" cy="308.7" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="461.0" y="303.7" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">counter_id</text>
+<polyline points="760.0,198.2 804,198.2 804,906.0 760.0,906.0" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="769.0" y1="191.18900000000002" x2="769.0" y2="205.18900000000002" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 774.0 906.0 L 760.0 899.0 M 774.0 906.0 L 760.0 906.0 M 774.0 906.0 L 760.0 913.0" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="781.0" cy="906.0" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="804.0" y="547.1" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">pos_session_id</text>
+<polyline points="760.0,627.0 822,627.0 822,368.3 1007.0,368.3" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="769.0" y1="620.0" x2="769.0" y2="634.0" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 993.0 368.3 L 1007.0 375.3 M 993.0 368.3 L 1007.0 368.3 M 993.0 368.3 L 1007.0 361.3" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="986.0" cy="368.3" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="822.0" y="492.6" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">sale_id</text>
+<polyline points="1112.0,180 1112.0,208.0 1112.0,208.0 1112.0,236" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="1105.0" y1="189.0" x2="1119.0" y2="189.0" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 1112.0 222.0 L 1105.0 236.0 M 1112.0 222.0 L 1112.0 236 M 1112.0 222.0 L 1119.0 236.0" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="1112.0" cy="215.0" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="1112.0" y="203.0" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">item_id</text>
+<polyline points="760.0,1399.4 840,1399.4 840,406.1 1007.0,406.1" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="769.0" y1="1392.4" x2="769.0" y2="1406.4" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 993.0 406.1 L 1007.0 413.1 M 993.0 406.1 L 1007.0 406.1 M 993.0 406.1 L 1007.0 399.1" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="986.0" cy="406.1" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="840.0" y="897.8" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">product_id</text>
+<polyline points="655.0,360 655.0,388.0 655.0,388.0 655.0,416" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="648.0" y1="369.0" x2="662.0" y2="369.0" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 655.0 402.0 L 648.0 416.0 M 655.0 402.0 L 655.0 416 M 655.0 402.0 L 662.0 416.0" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="655.0" cy="395.0" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="655.0" y="383.0" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">pos_session_id</text>
+<polyline points="760.0,466.6 858,466.6 858,651.3 1007.0,651.3" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="769.0" y1="459.6" x2="769.0" y2="473.6" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 993.0 651.3 L 1007.0 658.3 M 993.0 651.3 L 1007.0 651.3 M 993.0 651.3 L 1007.0 644.3" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="986.0" cy="651.3" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="858.0" y="554.0" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">cart_id</text>
+<polyline points="760.0,1415.4 876,1415.4 876,672.1 1007.0,672.1" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="769.0" y1="1408.402" x2="769.0" y2="1422.402" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 993.0 672.1 L 1007.0 679.1 M 993.0 672.1 L 1007.0 672.1 M 993.0 672.1 L 1007.0 665.1" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="986.0" cy="672.1" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="876.0" y="1038.8" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">product_id</text>
+<polyline points="1224.0,158.6 1268,158.6 1268,653.2 1217.0,653.2" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="1233.0" y1="151.598" x2="1233.0" y2="165.598" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 1231.0 653.2 L 1217.0 646.2 M 1231.0 653.2 L 1217.0 653.2 M 1231.0 653.2 L 1217.0 660.2" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="1238.0" cy="653.2" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="1268.0" y="400.9" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">item_id</text>
+<polyline points="760.0,789.0 894,789.0 894,936.2 1007.0,936.2" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="769.0" y1="782.0" x2="769.0" y2="796.0" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 993.0 936.2 L 1007.0 943.2 M 993.0 936.2 L 1007.0 936.2 M 993.0 936.2 L 1007.0 929.2" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="986.0" cy="936.2" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="894.0" y="857.6" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">sale_id</text>
+<polyline points="1217.0,789.0 1286,789.0 1286,232.8 1464.0,232.8" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="1226.0" y1="782.0" x2="1226.0" y2="796.0" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 1450.0 232.8 L 1464.0 239.8 M 1450.0 232.8 L 1464.0 232.8 M 1450.0 232.8 L 1464.0 225.8" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="1443.0" cy="232.8" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="1286.0" y="505.9" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">return_id</text>
+<polyline points="1217.0,257.0 1304,257.0 1304,212.4 1464.0,212.4" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="1226.0" y1="250.0" x2="1226.0" y2="264.0" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 1450.0 212.4 L 1464.0 219.4 M 1450.0 212.4 L 1464.0 212.4 M 1450.0 212.4 L 1464.0 205.4" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="1443.0" cy="212.4" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="1384.0" y="207.4" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">sale_detail_id</text>
+<polyline points="1224.0,174.6 1322,174.6 1322,192.0 1464.0,192.0" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="1233.0" y1="167.6" x2="1233.0" y2="181.6" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 1450.0 192.0 L 1464.0 199.0 M 1450.0 192.0 L 1464.0 192.0 M 1450.0 192.0 L 1464.0 185.0" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="1443.0" cy="192.0" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="1393.0" y="187.0" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">item_id</text>
+<polyline points="760.0,214.2 912,214.2 912,1268.0 760.0,1268.0" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="769.0" y1="207.2" x2="769.0" y2="221.2" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 774.0 1268.0 L 760.0 1261.0 M 774.0 1268.0 L 760.0 1268.0 M 774.0 1268.0 L 760.0 1275.0" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="781.0" cy="1268.0" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="912.0" y="736.1" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">pos_session_id</text>
+<polyline points="310.0,158.6 390,158.6 390,1245.5 550.0,1245.5" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="319.0" y1="151.598" x2="319.0" y2="165.598" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 536.0 1245.5 L 550.0 1252.5 M 536.0 1245.5 L 550.0 1245.5 M 536.0 1245.5 L 550.0 1238.5" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="529.0" cy="1245.5" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="390.0" y="697.0" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">outgoing_user_id</text>
+<polyline points="310.0,174.6 408,174.6 408,1290.5 550.0,1290.5" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="319.0" y1="167.6" x2="319.0" y2="181.6" stroke="#1a1a1a" stroke-width="1.8"/>
+<circle cx="314.5" cy="174.6" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<path d="M 536.0 1290.5 L 550.0 1297.5 M 536.0 1290.5 L 550.0 1290.5 M 536.0 1290.5 L 550.0 1283.5" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="529.0" cy="1290.5" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="408.0" y="727.5" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">incoming_user_id</text>
+<polyline points="310.0,487.8 426,487.8 426,1619.2 550.0,1619.2" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="319.0" y1="480.8" x2="319.0" y2="494.8" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 536.0 1619.2 L 550.0 1626.2 M 536.0 1619.2 L 550.0 1619.2 M 536.0 1619.2 L 550.0 1612.2" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="529.0" cy="1619.2" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="426.0" y="1048.5" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">promotion_id</text>
+<polyline points="655.0,1484 655.0,1512.0 655.0,1512.0 655.0,1540" fill="none" stroke="#1a1a1a" stroke-width="1.5" stroke-linejoin="miter"/>
+<line x1="648.0" y1="1493.0" x2="662.0" y2="1493.0" stroke="#1a1a1a" stroke-width="1.8"/>
+<path d="M 655.0 1526.0 L 648.0 1540.0 M 655.0 1526.0 L 655.0 1540 M 655.0 1526.0 L 662.0 1540.0" fill="none" stroke="#1a1a1a" stroke-width="1.5"/>
+<circle cx="655.0" cy="1519.0" r="3.2" fill="#f4f4f4" stroke="#1a1a1a" stroke-width="1.5"/>
+<text x="655.0" y="1507.0" font-size="9.5" fill="#555555" text-anchor="middle" stroke="#f4f4f4" stroke-width="3" paint-order="stroke">product_id</text>
+<rect x="100.0" y="90" width="210" height="90" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6" stroke-dasharray="6 4"/>
+<rect x="100.0" y="90" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="100.0" y="114" width="210" height="6" fill="#262626"/>
+<text x="205.0" y="110" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">users</text>
+<line x1="100.0" y1="120" x2="310.0" y2="120" stroke="#4d4d4d" stroke-width="1.4"/>
+<rect x="100.0" y="120" width="46" height="60" fill="#efefef"/>
+<line x1="146.0" y1="120" x2="146.0" y2="180" stroke="#d0d0d0" stroke-width="1.2"/>
+<line x1="100.0" y1="140" x2="310.0" y2="140" stroke="#d8d8d8" stroke-width="1"/>
+<text x="123.0" y="134" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">PK</text>
+<text x="153.0" y="134" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id</text>
+<line x1="100.0" y1="160" x2="310.0" y2="160" stroke="#d8d8d8" stroke-width="1"/>
+<text x="123.0" y="154" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">UQ</text>
+<text x="153.0" y="154" font-size="11.5" fill="#1a1a1a">user_name</text>
+<line x1="100.0" y1="180" x2="310.0" y2="180" stroke="#d8d8d8" stroke-width="1"/>
+<text x="153.0" y="174" font-size="11.5" fill="#1a1a1a">role</text>
+<rect x="100.0" y="236" width="210" height="90" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6" stroke-dasharray="6 4"/>
+<rect x="100.0" y="236" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="100.0" y="260" width="210" height="6" fill="#262626"/>
+<text x="205.0" y="256" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">counter</text>
+<line x1="100.0" y1="266" x2="310.0" y2="266" stroke="#4d4d4d" stroke-width="1.4"/>
+<rect x="100.0" y="266" width="46" height="60" fill="#efefef"/>
+<line x1="146.0" y1="266" x2="146.0" y2="326" stroke="#d0d0d0" stroke-width="1.2"/>
+<line x1="100.0" y1="286" x2="310.0" y2="286" stroke="#d8d8d8" stroke-width="1"/>
+<text x="123.0" y="280" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">PK</text>
+<text x="153.0" y="280" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id</text>
+<line x1="100.0" y1="306" x2="310.0" y2="306" stroke="#d8d8d8" stroke-width="1"/>
+<text x="153.0" y="300" font-size="11.5" fill="#1a1a1a">name</text>
+<line x1="100.0" y1="326" x2="310.0" y2="326" stroke="#d8d8d8" stroke-width="1"/>
+<text x="153.0" y="320" font-size="11.5" fill="#1a1a1a">is_active</text>
+<rect x="100.0" y="382" width="210" height="230" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="100.0" y="382" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="100.0" y="406" width="210" height="6" fill="#262626"/>
+<text x="205.0" y="402" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">promotion</text>
+<line x1="100.0" y1="412" x2="310.0" y2="412" stroke="#4d4d4d" stroke-width="1.4"/>
+<rect x="100.0" y="412" width="46" height="200" fill="#efefef"/>
+<line x1="146.0" y1="412" x2="146.0" y2="612" stroke="#d0d0d0" stroke-width="1.2"/>
+<line x1="100.0" y1="432" x2="310.0" y2="432" stroke="#d8d8d8" stroke-width="1"/>
+<text x="123.0" y="426" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">PK</text>
+<text x="153.0" y="426" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id</text>
+<line x1="100.0" y1="452" x2="310.0" y2="452" stroke="#d8d8d8" stroke-width="1"/>
+<text x="123.0" y="446" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK1</text>
+<text x="153.0" y="446" font-size="11.5" fill="#1a1a1a">branchId</text>
+<line x1="100.0" y1="472" x2="310.0" y2="472" stroke="#d8d8d8" stroke-width="1"/>
+<text x="153.0" y="466" font-size="11.5" fill="#1a1a1a">name</text>
+<line x1="100.0" y1="492" x2="310.0" y2="492" stroke="#d8d8d8" stroke-width="1"/>
+<text x="153.0" y="486" font-size="11.5" fill="#1a1a1a">type</text>
+<line x1="100.0" y1="512" x2="310.0" y2="512" stroke="#d8d8d8" stroke-width="1"/>
+<text x="153.0" y="506" font-size="11.5" fill="#1a1a1a">value</text>
+<line x1="100.0" y1="532" x2="310.0" y2="532" stroke="#d8d8d8" stroke-width="1"/>
+<text x="153.0" y="526" font-size="11.5" fill="#1a1a1a">startDate</text>
+<line x1="100.0" y1="552" x2="310.0" y2="552" stroke="#d8d8d8" stroke-width="1"/>
+<text x="153.0" y="546" font-size="11.5" fill="#1a1a1a">endDate</text>
+<line x1="100.0" y1="572" x2="310.0" y2="572" stroke="#d8d8d8" stroke-width="1"/>
+<text x="153.0" y="566" font-size="11.5" fill="#1a1a1a">status</text>
+<line x1="100.0" y1="592" x2="310.0" y2="592" stroke="#d8d8d8" stroke-width="1"/>
+<text x="153.0" y="586" font-size="11.5" fill="#1a1a1a">isAiSuggested</text>
+<line x1="100.0" y1="612" x2="310.0" y2="612" stroke="#d8d8d8" stroke-width="1"/>
+<text x="123.0" y="606" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK2</text>
+<text x="153.0" y="606" font-size="11.5" fill="#1a1a1a">createdBy</text>
+<rect x="550.0" y="90" width="210" height="270" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="550.0" y="90" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="550.0" y="114" width="210" height="6" fill="#262626"/>
+<text x="655.0" y="110" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">pos_session</text>
+<line x1="550.0" y1="120" x2="760.0" y2="120" stroke="#4d4d4d" stroke-width="1.4"/>
+<rect x="550.0" y="120" width="46" height="240" fill="#efefef"/>
+<line x1="596.0" y1="120" x2="596.0" y2="360" stroke="#d0d0d0" stroke-width="1.2"/>
+<line x1="550.0" y1="140" x2="760.0" y2="140" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="134" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">PK</text>
+<text x="603.0" y="134" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id</text>
+<line x1="550.0" y1="160" x2="760.0" y2="160" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="154" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK1</text>
+<text x="603.0" y="154" font-size="11.5" fill="#1a1a1a">userId</text>
+<line x1="550.0" y1="180" x2="760.0" y2="180" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="174" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK2</text>
+<text x="603.0" y="174" font-size="11.5" fill="#1a1a1a">counterId</text>
+<line x1="550.0" y1="200" x2="760.0" y2="200" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="194" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK3</text>
+<text x="603.0" y="194" font-size="11.5" fill="#1a1a1a">branchId</text>
+<line x1="550.0" y1="220" x2="760.0" y2="220" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="214" font-size="11.5" fill="#1a1a1a">startTime</text>
+<line x1="550.0" y1="240" x2="760.0" y2="240" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="234" font-size="11.5" fill="#1a1a1a">endTime</text>
+<line x1="550.0" y1="260" x2="760.0" y2="260" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="254" font-size="11.5" fill="#1a1a1a">status</text>
+<line x1="550.0" y1="280" x2="760.0" y2="280" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="274" font-size="11.5" fill="#1a1a1a">notes</text>
+<line x1="550.0" y1="300" x2="760.0" y2="300" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="294" font-size="11.5" fill="#1a1a1a">openingCash</text>
+<line x1="550.0" y1="320" x2="760.0" y2="320" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="314" font-size="11.5" fill="#1a1a1a">expectedClosingCash</text>
+<line x1="550.0" y1="340" x2="760.0" y2="340" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="334" font-size="11.5" fill="#1a1a1a">actualClosingCash</text>
+<line x1="550.0" y1="360" x2="760.0" y2="360" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="354" font-size="11.5" fill="#1a1a1a">cashDifference</text>
+<rect x="550.0" y="416" width="210" height="110" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="550.0" y="416" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="550.0" y="440" width="210" height="6" fill="#262626"/>
+<text x="655.0" y="436" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">cart</text>
+<line x1="550.0" y1="446" x2="760.0" y2="446" stroke="#4d4d4d" stroke-width="1.4"/>
+<rect x="550.0" y="446" width="46" height="80" fill="#efefef"/>
+<line x1="596.0" y1="446" x2="596.0" y2="526" stroke="#d0d0d0" stroke-width="1.2"/>
+<line x1="550.0" y1="466" x2="760.0" y2="466" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="460" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">PK</text>
+<text x="603.0" y="460" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id</text>
+<line x1="550.0" y1="486" x2="760.0" y2="486" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="480" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK1</text>
+<text x="603.0" y="480" font-size="11.5" fill="#1a1a1a">posSessionId</text>
+<line x1="550.0" y1="506" x2="760.0" y2="506" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="500" font-size="11.5" fill="#1a1a1a">status</text>
+<line x1="550.0" y1="526" x2="760.0" y2="526" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="520" font-size="11.5" fill="#1a1a1a">label</text>
+<rect x="550.0" y="582" width="210" height="450" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="550.0" y="582" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="550.0" y="606" width="210" height="6" fill="#262626"/>
+<text x="655.0" y="602" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">sale</text>
+<line x1="550.0" y1="612" x2="760.0" y2="612" stroke="#4d4d4d" stroke-width="1.4"/>
+<rect x="550.0" y="612" width="46" height="420" fill="#efefef"/>
+<line x1="596.0" y1="612" x2="596.0" y2="1032" stroke="#d0d0d0" stroke-width="1.2"/>
+<line x1="550.0" y1="632" x2="760.0" y2="632" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="626" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">PK</text>
+<text x="603.0" y="626" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id</text>
+<line x1="550.0" y1="652" x2="760.0" y2="652" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="646" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK1</text>
+<text x="603.0" y="646" font-size="11.5" fill="#1a1a1a">branchId</text>
+<line x1="550.0" y1="672" x2="760.0" y2="672" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="666" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">UQ</text>
+<text x="603.0" y="666" font-size="11.5" fill="#1a1a1a">saleNumber</text>
+<line x1="550.0" y1="692" x2="760.0" y2="692" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="686" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK2</text>
+<text x="603.0" y="686" font-size="11.5" fill="#1a1a1a">posSessionId</text>
+<line x1="550.0" y1="712" x2="760.0" y2="712" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="706" font-size="11.5" fill="#1a1a1a">subtotal</text>
+<line x1="550.0" y1="732" x2="760.0" y2="732" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="726" font-size="11.5" fill="#1a1a1a">discountAmount</text>
+<line x1="550.0" y1="752" x2="760.0" y2="752" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="746" font-size="11.5" fill="#1a1a1a">tax</text>
+<line x1="550.0" y1="772" x2="760.0" y2="772" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="766" font-size="11.5" fill="#1a1a1a">totalAmount</text>
+<line x1="550.0" y1="792" x2="760.0" y2="792" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="786" font-size="11.5" fill="#1a1a1a">roundingAdjustment</text>
+<line x1="550.0" y1="812" x2="760.0" y2="812" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="806" font-size="11.5" fill="#1a1a1a">grandTotal</text>
+<line x1="550.0" y1="832" x2="760.0" y2="832" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="826" font-size="11.5" fill="#1a1a1a">paymentMethod</text>
+<line x1="550.0" y1="852" x2="760.0" y2="852" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="846" font-size="11.5" fill="#1a1a1a">paymentReference</text>
+<line x1="550.0" y1="872" x2="760.0" y2="872" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="866" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">UQ</text>
+<text x="603.0" y="866" font-size="11.5" fill="#1a1a1a">mobileProvider</text>
+<line x1="550.0" y1="892" x2="760.0" y2="892" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="886" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">UQ</text>
+<text x="603.0" y="886" font-size="11.5" fill="#1a1a1a">mobileTransactionId</text>
+<line x1="550.0" y1="912" x2="760.0" y2="912" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="906" font-size="11.5" fill="#1a1a1a">cashReceived</text>
+<line x1="550.0" y1="932" x2="760.0" y2="932" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="926" font-size="11.5" fill="#1a1a1a">cardLast4</text>
+<line x1="550.0" y1="952" x2="760.0" y2="952" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="946" font-size="11.5" fill="#1a1a1a">status</text>
+<line x1="550.0" y1="972" x2="760.0" y2="972" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="966" font-size="11.5" fill="#1a1a1a">voidReason</text>
+<line x1="550.0" y1="992" x2="760.0" y2="992" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="986" font-size="11.5" fill="#1a1a1a">notes</text>
+<line x1="550.0" y1="1012" x2="760.0" y2="1012" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="1006" font-size="11.5" fill="#1a1a1a">saleDate</text>
+<line x1="550.0" y1="1032" x2="760.0" y2="1032" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="1026" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK3</text>
+<text x="603.0" y="1026" font-size="11.5" fill="#1a1a1a">createdBy</text>
+<rect x="550.0" y="1088" width="210" height="250" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="550.0" y="1088" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="550.0" y="1112" width="210" height="6" fill="#262626"/>
+<text x="655.0" y="1108" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">shift_handover</text>
+<line x1="550.0" y1="1118" x2="760.0" y2="1118" stroke="#4d4d4d" stroke-width="1.4"/>
+<rect x="550.0" y="1118" width="46" height="220" fill="#efefef"/>
+<line x1="596.0" y1="1118" x2="596.0" y2="1338" stroke="#d0d0d0" stroke-width="1.2"/>
+<line x1="550.0" y1="1138" x2="760.0" y2="1138" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="1132" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">PK</text>
+<text x="603.0" y="1132" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id</text>
+<line x1="550.0" y1="1158" x2="760.0" y2="1158" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="1152" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK1</text>
+<text x="603.0" y="1152" font-size="11.5" fill="#1a1a1a">branchId</text>
+<line x1="550.0" y1="1178" x2="760.0" y2="1178" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="1172" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK2</text>
+<text x="603.0" y="1172" font-size="11.5" fill="#1a1a1a">posSessionId</text>
+<line x1="550.0" y1="1198" x2="760.0" y2="1198" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="1192" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK3</text>
+<text x="603.0" y="1192" font-size="11.5" fill="#1a1a1a">outgoingUserId</text>
+<line x1="550.0" y1="1218" x2="760.0" y2="1218" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="1212" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK4</text>
+<text x="603.0" y="1212" font-size="11.5" fill="#1a1a1a">incomingUserId</text>
+<line x1="550.0" y1="1238" x2="760.0" y2="1238" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="1232" font-size="11.5" fill="#1a1a1a">expectedCash</text>
+<line x1="550.0" y1="1258" x2="760.0" y2="1258" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="1252" font-size="11.5" fill="#1a1a1a">blindCount</text>
+<line x1="550.0" y1="1278" x2="760.0" y2="1278" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="1272" font-size="11.5" fill="#1a1a1a">difference</text>
+<line x1="550.0" y1="1298" x2="760.0" y2="1298" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="1292" font-size="11.5" fill="#1a1a1a">notes</text>
+<line x1="550.0" y1="1318" x2="760.0" y2="1318" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="1312" font-size="11.5" fill="#1a1a1a">handedAt</text>
+<line x1="550.0" y1="1338" x2="760.0" y2="1338" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="1332" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK5</text>
+<text x="603.0" y="1332" font-size="11.5" fill="#1a1a1a">createdBy</text>
+<rect x="550.0" y="1394" width="210" height="90" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6" stroke-dasharray="6 4"/>
+<rect x="550.0" y="1394" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="550.0" y="1418" width="210" height="6" fill="#262626"/>
+<text x="655.0" y="1414" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">products</text>
+<line x1="550.0" y1="1424" x2="760.0" y2="1424" stroke="#4d4d4d" stroke-width="1.4"/>
+<rect x="550.0" y="1424" width="46" height="60" fill="#efefef"/>
+<line x1="596.0" y1="1424" x2="596.0" y2="1484" stroke="#d0d0d0" stroke-width="1.2"/>
+<line x1="550.0" y1="1444" x2="760.0" y2="1444" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="1438" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">PK</text>
+<text x="603.0" y="1438" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id</text>
+<line x1="550.0" y1="1464" x2="760.0" y2="1464" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="1458" font-size="11.5" fill="#1a1a1a">name</text>
+<line x1="550.0" y1="1484" x2="760.0" y2="1484" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="1478" font-size="11.5" fill="#1a1a1a">reorder_threshold</text>
+<rect x="550.0" y="1540" width="210" height="110" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="550.0" y="1540" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="550.0" y="1564" width="210" height="6" fill="#262626"/>
+<text x="655.0" y="1560" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">promotion_product</text>
+<line x1="550.0" y1="1570" x2="760.0" y2="1570" stroke="#4d4d4d" stroke-width="1.4"/>
+<rect x="550.0" y="1570" width="46" height="80" fill="#efefef"/>
+<line x1="596.0" y1="1570" x2="596.0" y2="1650" stroke="#d0d0d0" stroke-width="1.2"/>
+<line x1="550.0" y1="1590" x2="760.0" y2="1590" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="1584" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">PK</text>
+<text x="603.0" y="1584" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id</text>
+<line x1="550.0" y1="1610" x2="760.0" y2="1610" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="1604" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK1</text>
+<text x="603.0" y="1604" font-size="11.5" fill="#1a1a1a">promotionId</text>
+<line x1="550.0" y1="1630" x2="760.0" y2="1630" stroke="#d8d8d8" stroke-width="1"/>
+<text x="573.0" y="1624" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK2</text>
+<text x="603.0" y="1624" font-size="11.5" fill="#1a1a1a">productId</text>
+<line x1="550.0" y1="1650" x2="760.0" y2="1650" stroke="#d8d8d8" stroke-width="1"/>
+<text x="603.0" y="1644" font-size="11.5" fill="#1a1a1a">requiredQuantity</text>
+<rect x="1000.0" y="90" width="224" height="90" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6" stroke-dasharray="6 4"/>
+<rect x="1000.0" y="90" width="224" height="30" rx="3" fill="#262626"/>
+<rect x="1000.0" y="114" width="224" height="6" fill="#262626"/>
+<text x="1112.0" y="110" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">items</text>
+<line x1="1000.0" y1="120" x2="1224.0" y2="120" stroke="#4d4d4d" stroke-width="1.4"/>
+<rect x="1000.0" y="120" width="46" height="60" fill="#efefef"/>
+<line x1="1046.0" y1="120" x2="1046.0" y2="180" stroke="#d0d0d0" stroke-width="1.2"/>
+<line x1="1000.0" y1="140" x2="1224.0" y2="140" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1023.0" y="134" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">PK</text>
+<text x="1053.0" y="134" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id</text>
+<line x1="1000.0" y1="160" x2="1224.0" y2="160" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1023.0" y="154" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">UQ</text>
+<text x="1053.0" y="154" font-size="11.5" fill="#1a1a1a">barcode</text>
+<line x1="1000.0" y1="180" x2="1224.0" y2="180" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1053.0" y="174" font-size="11.5" fill="#1a1a1a">current_stock_quantity</text>
+<rect x="1007.0" y="236" width="210" height="210" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="1007.0" y="236" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="1007.0" y="260" width="210" height="6" fill="#262626"/>
+<text x="1112.0" y="256" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">sale_detail</text>
+<line x1="1007.0" y1="266" x2="1217.0" y2="266" stroke="#4d4d4d" stroke-width="1.4"/>
+<rect x="1007.0" y="266" width="46" height="180" fill="#efefef"/>
+<line x1="1053.0" y1="266" x2="1053.0" y2="446" stroke="#d0d0d0" stroke-width="1.2"/>
+<line x1="1007.0" y1="286" x2="1217.0" y2="286" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1030.0" y="280" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">PK</text>
+<text x="1060.0" y="280" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id</text>
+<line x1="1007.0" y1="306" x2="1217.0" y2="306" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1030.0" y="300" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK1</text>
+<text x="1060.0" y="300" font-size="11.5" fill="#1a1a1a">saleId</text>
+<line x1="1007.0" y1="326" x2="1217.0" y2="326" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1030.0" y="320" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK2</text>
+<text x="1060.0" y="320" font-size="11.5" fill="#1a1a1a">itemId</text>
+<line x1="1007.0" y1="346" x2="1217.0" y2="346" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1030.0" y="340" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK3</text>
+<text x="1060.0" y="340" font-size="11.5" fill="#1a1a1a">productId</text>
+<line x1="1007.0" y1="366" x2="1217.0" y2="366" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1060.0" y="360" font-size="11.5" fill="#1a1a1a">quantity</text>
+<line x1="1007.0" y1="386" x2="1217.0" y2="386" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1060.0" y="380" font-size="11.5" fill="#1a1a1a">unitPrice</text>
+<line x1="1007.0" y1="406" x2="1217.0" y2="406" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1060.0" y="400" font-size="11.5" fill="#1a1a1a">discount</text>
+<line x1="1007.0" y1="426" x2="1217.0" y2="426" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1060.0" y="420" font-size="11.5" fill="#1a1a1a">taxRateApplied</text>
+<line x1="1007.0" y1="446" x2="1217.0" y2="446" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1060.0" y="440" font-size="11.5" fill="#1a1a1a">lineTotal</text>
+<rect x="1007.0" y="502" width="210" height="210" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="1007.0" y="502" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="1007.0" y="526" width="210" height="6" fill="#262626"/>
+<text x="1112.0" y="522" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">cart_item</text>
+<line x1="1007.0" y1="532" x2="1217.0" y2="532" stroke="#4d4d4d" stroke-width="1.4"/>
+<rect x="1007.0" y="532" width="46" height="180" fill="#efefef"/>
+<line x1="1053.0" y1="532" x2="1053.0" y2="712" stroke="#d0d0d0" stroke-width="1.2"/>
+<line x1="1007.0" y1="552" x2="1217.0" y2="552" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1030.0" y="546" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">PK</text>
+<text x="1060.0" y="546" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id</text>
+<line x1="1007.0" y1="572" x2="1217.0" y2="572" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1030.0" y="566" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK1</text>
+<text x="1060.0" y="566" font-size="11.5" fill="#1a1a1a">cartId</text>
+<line x1="1007.0" y1="592" x2="1217.0" y2="592" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1030.0" y="586" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK2</text>
+<text x="1060.0" y="586" font-size="11.5" fill="#1a1a1a">productId</text>
+<line x1="1007.0" y1="612" x2="1217.0" y2="612" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1030.0" y="606" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK3</text>
+<text x="1060.0" y="606" font-size="11.5" fill="#1a1a1a">itemId</text>
+<line x1="1007.0" y1="632" x2="1217.0" y2="632" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1060.0" y="626" font-size="11.5" fill="#1a1a1a">quantity</text>
+<line x1="1007.0" y1="652" x2="1217.0" y2="652" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1060.0" y="646" font-size="11.5" fill="#1a1a1a">unitPrice</text>
+<line x1="1007.0" y1="672" x2="1217.0" y2="672" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1060.0" y="666" font-size="11.5" fill="#1a1a1a">appliedPromotionId</text>
+<line x1="1007.0" y1="692" x2="1217.0" y2="692" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1060.0" y="686" font-size="11.5" fill="#1a1a1a">taxRateApplied</text>
+<line x1="1007.0" y1="712" x2="1217.0" y2="712" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1060.0" y="706" font-size="11.5" fill="#1a1a1a">totalPrice</text>
+<rect x="1007.0" y="768" width="210" height="210" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="1007.0" y="768" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="1007.0" y="792" width="210" height="6" fill="#262626"/>
+<text x="1112.0" y="788" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">sale_return</text>
+<line x1="1007.0" y1="798" x2="1217.0" y2="798" stroke="#4d4d4d" stroke-width="1.4"/>
+<rect x="1007.0" y="798" width="46" height="180" fill="#efefef"/>
+<line x1="1053.0" y1="798" x2="1053.0" y2="978" stroke="#d0d0d0" stroke-width="1.2"/>
+<line x1="1007.0" y1="818" x2="1217.0" y2="818" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1030.0" y="812" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">PK</text>
+<text x="1060.0" y="812" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id</text>
+<line x1="1007.0" y1="838" x2="1217.0" y2="838" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1030.0" y="832" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK1</text>
+<text x="1060.0" y="832" font-size="11.5" fill="#1a1a1a">branchId</text>
+<line x1="1007.0" y1="858" x2="1217.0" y2="858" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1030.0" y="852" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">UQ</text>
+<text x="1060.0" y="852" font-size="11.5" fill="#1a1a1a">returnNumber</text>
+<line x1="1007.0" y1="878" x2="1217.0" y2="878" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1030.0" y="872" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK2</text>
+<text x="1060.0" y="872" font-size="11.5" fill="#1a1a1a">saleId</text>
+<line x1="1007.0" y1="898" x2="1217.0" y2="898" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1060.0" y="892" font-size="11.5" fill="#1a1a1a">reason</text>
+<line x1="1007.0" y1="918" x2="1217.0" y2="918" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1060.0" y="912" font-size="11.5" fill="#1a1a1a">status</text>
+<line x1="1007.0" y1="938" x2="1217.0" y2="938" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1060.0" y="932" font-size="11.5" fill="#1a1a1a">refundAmount</text>
+<line x1="1007.0" y1="958" x2="1217.0" y2="958" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1030.0" y="952" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK3</text>
+<text x="1060.0" y="952" font-size="11.5" fill="#1a1a1a">createdBy</text>
+<line x1="1007.0" y1="978" x2="1217.0" y2="978" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1030.0" y="972" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK4</text>
+<text x="1060.0" y="972" font-size="11.5" fill="#1a1a1a">approvedBy</text>
+<rect x="1464.0" y="90" width="210" height="170" rx="3" fill="#ffffff" stroke="#4d4d4d" stroke-width="1.6"/>
+<rect x="1464.0" y="90" width="210" height="30" rx="3" fill="#262626"/>
+<rect x="1464.0" y="114" width="210" height="6" fill="#262626"/>
+<text x="1569.0" y="110" font-size="13" font-weight="bold" fill="#ffffff" text-anchor="middle">sale_return_detail</text>
+<line x1="1464.0" y1="120" x2="1674.0" y2="120" stroke="#4d4d4d" stroke-width="1.4"/>
+<rect x="1464.0" y="120" width="46" height="140" fill="#efefef"/>
+<line x1="1510.0" y1="120" x2="1510.0" y2="260" stroke="#d0d0d0" stroke-width="1.2"/>
+<line x1="1464.0" y1="140" x2="1674.0" y2="140" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1487.0" y="134" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">PK</text>
+<text x="1517.0" y="134" font-size="11.5" fill="#1a1a1a" text-decoration="underline">id</text>
+<line x1="1464.0" y1="160" x2="1674.0" y2="160" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1487.0" y="154" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK1</text>
+<text x="1517.0" y="154" font-size="11.5" fill="#1a1a1a">returnId</text>
+<line x1="1464.0" y1="180" x2="1674.0" y2="180" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1487.0" y="174" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK2</text>
+<text x="1517.0" y="174" font-size="11.5" fill="#1a1a1a">saleDetailId</text>
+<line x1="1464.0" y1="200" x2="1674.0" y2="200" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1487.0" y="194" font-size="10" font-weight="bold" fill="#333333" text-anchor="middle">FK3</text>
+<text x="1517.0" y="194" font-size="11.5" fill="#1a1a1a">itemId</text>
+<line x1="1464.0" y1="220" x2="1674.0" y2="220" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1517.0" y="214" font-size="11.5" fill="#1a1a1a">quantity</text>
+<line x1="1464.0" y1="240" x2="1674.0" y2="240" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1517.0" y="234" font-size="11.5" fill="#1a1a1a">refundAmount</text>
+<line x1="1464.0" y1="260" x2="1674.0" y2="260" stroke="#d8d8d8" stroke-width="1"/>
+<text x="1517.0" y="254" font-size="11.5" fill="#1a1a1a">disposition</text>
+</svg>

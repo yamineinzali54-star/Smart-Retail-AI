@@ -1,0 +1,2 @@
+CREATE TYPE "public"."return_disposition" AS ENUM('restock', 'damage');--> statement-breakpoint
+ALTER TABLE "sale_return_detail" ADD COLUMN "disposition" "return_disposition" DEFAULT 'restock' NOT NULL;

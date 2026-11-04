@@ -1,0 +1,18 @@
+export type AuditAction =
+  | "create"
+  | "update"
+  | "edit"
+  | "soft_delete"
+  | "delete"
+  | "confirm"
+  | "approve"
+  | "receive"
+  | "void"
+  | "close"
+  | "reorder"
+  | "write_off"
+  | "adjust"
+  | "price_change"
+  | "activate"
+  | "bulk_import"
+  | "login_failed";

@@ -1,0 +1,29 @@
+﻿name,category_name,unit_name,unit_price,reorder_threshold
+Head & Shoulders - Shampoo,Health and beauty,Bottle,4500,20
+Lux - Soap,Health and beauty,Pack,5000,30
+Nivea - Face Cream,Health and beauty,Jar,8500,15
+Colgate - Toothpaste,Health and beauty,Piece,4500,25
+Vaseline - Body Lotion,Health and beauty,Bottle,7500,18
+Nivea - Sunscreen,Health and beauty,Bottle,12000,12
+Ugreen - USB Cable,Electronic accessories,Piece,6500,25
+Baseus - Phone Case,Electronic accessories,Piece,8000,20
+JBL - Earphones,Electronic accessories,Box,25000,15
+Anker - Charger,Electronic accessories,Box,18000,18
+Anker - Power Bank,Electronic accessories,Box,65000,10
+Nillkin - Screen Protector,Electronic accessories,Pack,7000,30
+Scotch-Brite - Kitchen Towel,Home and lifestyle,Roll,5000,20
+IKEA - Cushion Cover,Home and lifestyle,Piece,12000,15
+Seiko - Wall Clock,Home and lifestyle,Piece,25000,8
+Philips - Table Lamp,Home and lifestyle,Piece,35000,10
+LocknLock - Water Bottle,Sports and travel,Bottle,12000,25
+Nike - Gym Towel,Sports and travel,Piece,9000,20
+Decathlon - Yoga Mat,Sports and travel,Piece,25000,10
+Adidas - Sports Cap,Sports and travel,Piece,18000,15
+Aquafina - Bottled Water,Food and beverages,Bottle,1000,40
+Red Bull - Energy Drink,Food and beverages,Can,2500,30
+Cadbury - Chocolate Bar,Food and beverages,Piece,3500,35
+Lays - Chips Pack,Food and beverages,Pack,2500,28
+Ray-Ban - Sunglasses,Fashion accessories,Piece,85000,12
+Casio - Wrist Watch,Fashion accessories,Piece,55000,8
+Levi's - Leather Belt,Fashion accessories,Piece,25000,10
+Polo - Wallet,Fashion accessories,Piece,18000,14

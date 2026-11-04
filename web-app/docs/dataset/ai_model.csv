@@ -1,0 +1,18 @@
+provider,model_name,display_name,api_key,expires_at,provider_context_length,provider_max_output_tokens,provider_request_limits,provider_limits_checked_at,is_active,is_default,sort_order
+openrouter,nvidia/nemotron-3-ultra-550b-a55b:free,NVIDIA Nemotron 3 Ultra (Free),,,,,,,true,true,0
+openrouter,nvidia/nemotron-3-super-120b-a12b:free,NVIDIA Nemotron 3 Super (Free),,,,,,,true,false,1
+openrouter,qwen/qwen3.8-27b:free,Qwen3.8 27B (Free),,,,,,,true,false,2
+openrouter,google/gemma-4-26b-a4b-it:free,Google Gemma 4 26B A4B (Free),,,,,,,true,false,3
+openrouter,openai/gpt-oss-20b:free,OpenAI GPT-OSS 20B (Free),,,,,,,true,false,4
+openrouter,inclusionai/ling-3.0-tiny:free,InclusionAI Ling 3.0 Tiny (Free),,,,,,,true,false,5
+opencode_zen,big-pickle,OpenCode Zen Big Pickle (Free),,,,,,,true,false,6
+opencode_zen,space-bunny-free,OpenCode Zen Space Bunny (Free),,,,,,,true,false,7
+opencode_zen,longcat-2.5-preview-free,OpenCode Zen LongCat 2.5 Preview (Free),,,,,,,true,false,8
+opencode_zen,exo-free,OpenCode Zen Exo (Free),,,,,,,true,false,9
+opencode_zen,fledge-alpha-free,OpenCode Zen Fledge Alpha (Free),,,,,,,true,false,10
+opencode_zen,mimo-v2.6-flash-free,OpenCode Zen MiMo V2.6 Flash (Free),,,,,,,true,false,11
+opencode_zen,mimo-v2.5-free,OpenCode Zen MiMo V2.5 (Free),,,,,,,true,false,12
+opencode_zen,ling-3.1-flash-free,OpenCode Zen Ling 3.1 Flash (Free),,,,,,,true,false,13
+opencode_zen,ling-3.0-flash-fin-free,OpenCode Zen Ling 3.0 Flash (Free),,,,,,,true,false,14
+opencode_zen,nemotron-3-ultra-free,OpenCode Zen Nemotron 3 Ultra (Free),,,,,,,true,false,15
+opencode_zen,nemotron-3.5-lightning-free,OpenCode Zen Nemotron 3.5 Lightning (Free),,,,,,,true,false,16
