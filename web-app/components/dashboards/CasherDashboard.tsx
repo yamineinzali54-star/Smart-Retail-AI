@@ -55,10 +55,10 @@ const recentTransactions = [
 ];
 
 const paymentMethodData = [
-  { name: "Cash", value: 85000, color: "hsl(var(--chart-1))" },
-  { name: "Card", value: 125000, color: "hsl(var(--chart-2))" },
-  { name: "Mobile", value: 89000, color: "hsl(var(--chart-3))" },
-  { name: "Credit", value: 45000, color: "hsl(var(--chart-4))" },
+  { name: "Cash", value: 85000, color: "var(--chart-1)" },
+  { name: "Card", value: 125000, color: "var(--chart-2)" },
+  { name: "Mobile", value: 89000, color: "var(--chart-3)" },
+  { name: "Credit", value: 45000, color: "var(--chart-4)" },
 ];
 
 const kpiCards = [
@@ -117,7 +117,9 @@ function KPICard({
         <CardTitle className="text-sm font-medium text-muted-foreground">
           {title}
         </CardTitle>
-        <Icon className="h-4 w-4 text-muted-foreground" />
+        <span className="flex size-8 items-center justify-center rounded-md bg-gradient-soft text-primary">
+          <Icon className="h-4 w-4" />
+        </span>
       </CardHeader>
       <CardContent>
         <div className="text-2xl font-bold">{value}</div>

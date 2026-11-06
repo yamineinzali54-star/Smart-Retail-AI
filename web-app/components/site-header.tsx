@@ -82,7 +82,7 @@ export function SiteHeader() {
   const { t } = useI18n()
 
   return (
-    <header className="sticky top-0 z-20 flex h-12 min-h-12 shrink-0 items-center gap-2 border-b border-border bg-background transition-[width,height] ease-linear group-has-data-[collapsible=icon]/sidebar-wrapper:h-12">
+    <header className="sticky top-0 z-20 flex h-14 min-h-14 shrink-0 items-center gap-2 border-b border-border bg-card/90 backdrop-blur-md transition-[width,height] ease-linear group-has-data-[collapsible=icon]/sidebar-wrapper:h-14">
       <div className="flex w-full items-center gap-1 px-4 lg:gap-2 lg:px-8">
         <SidebarTrigger className="-ml-1" />
         <Separator

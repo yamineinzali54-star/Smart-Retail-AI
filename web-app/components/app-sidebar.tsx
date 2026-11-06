@@ -17,28 +17,34 @@ import {
   SidebarMenuItem,
 } from "@/components/ui/sidebar"
 import {
-  RiDashboardLine,
-  RiListUnordered,
-  RiBarChartLine,
-  RiStoreLine,
-  RiShoppingCartLine,
-  RiMoneyDollarCircleLine,
-  RiSettingsLine,
-  RiCalendarLine,
-  RiDatabase2Line,
-  RiFileChartLine,
-  RiFileLine,
-  RiCommandLine,
-  RiTeamLine,
-  RiTruckLine,
-  RiShieldLine,
-  RiDownloadLine,
-  RiKeyLine,
-  RiNotificationLine,
-  RiBookLine,
-  RiTimeLine,
-  RiArchiveLine,
-} from "@remixicon/react"
+  Archive,
+  ArrowLeftRight,
+  BarChart3,
+  Bell,
+  BookOpen,
+  Bot,
+  CalendarClock,
+  Clock,
+  Database,
+  Download,
+  FileBarChart,
+  FileText,
+  KeyRound,
+  LayoutDashboard,
+  Layers,
+  List,
+  Package,
+  Settings,
+  Shield,
+  ShoppingCart,
+  SlidersHorizontal,
+  Store,
+  Truck,
+  Undo2,
+  Users,
+  Wallet,
+  Warehouse,
+} from "lucide-react"
 
 interface NavItem {
   title: string
@@ -62,125 +68,125 @@ export function AppSidebar({ role, userName, userRole }: AppSidebarProps) {
   const { t } = useI18n()
 
   const adminMain: NavItem[] = [
-    { title: t("nav.dashboard"), url: "/dashboard", icon: <RiDashboardLine /> },
-    { title: t("nav.pos"), url: "/pos/terminal", icon: <RiShoppingCartLine /> },
-    { title: t("nav.stock"), url: "/stock", icon: <RiStoreLine /> },
-    { title: t("nav.expiry"), url: "/expiry", icon: <RiCalendarLine /> },
+    { title: t("nav.dashboard"), url: "/dashboard", icon: <LayoutDashboard /> },
+    { title: t("nav.pos"), url: "/pos/terminal", icon: <ShoppingCart /> },
+    { title: t("nav.stock"), url: "/stock", icon: <Warehouse /> },
+    { title: t("nav.expiry"), url: "/expiry", icon: <CalendarClock /> },
     {
       title: t("nav.purchaseOrders"),
       url: "/purchase-orders",
-      icon: <RiTruckLine />,
+      icon: <Truck />,
     },
-    { title: t("nav.grn"), url: "/grn", icon: <RiDownloadLine /> },
+    { title: t("nav.grn"), url: "/grn", icon: <Download /> },
     {
       title: t("nav.groundBalance"),
       url: "/ground-balance",
-      icon: <RiDatabase2Line />,
+      icon: <Database />,
     },
     {
       title: t("nav.transfers"),
       url: "/stock-transfers",
-      icon: <RiListUnordered />,
+      icon: <ArrowLeftRight />,
     },
     {
       title: t("nav.adjustments"),
       url: "/stock-adjustments",
-      icon: <RiListUnordered />,
+      icon: <SlidersHorizontal />,
     },
     {
       title: t("nav.supplierReturns"),
       url: "/supplier-returns",
-      icon: <RiShieldLine />,
+      icon: <Shield />,
     },
     {
       title: t("nav.saleReturns"),
       url: "/sale-returns",
-      icon: <RiMoneyDollarCircleLine />,
+      icon: <Undo2 />,
     },
-    { title: t("nav.suppliers"), url: "/suppliers", icon: <RiTruckLine /> },
-    { title: t("nav.products"), url: "/products", icon: <RiStoreLine /> },
+    { title: t("nav.suppliers"), url: "/suppliers", icon: <Truck /> },
+    { title: t("nav.products"), url: "/products", icon: <Package /> },
     {
       title: t("nav.categories"),
       url: "/categories",
-      icon: <RiListUnordered />,
+      icon: <Layers />,
     },
-    { title: t("nav.units"), url: "/units", icon: <RiListUnordered /> },
-    { title: t("nav.staff"), url: "/staff", icon: <RiTeamLine /> },
-    { title: t("nav.branches"), url: "/branches", icon: <RiStoreLine /> },
+    { title: t("nav.units"), url: "/units", icon: <List /> },
+    { title: t("nav.staff"), url: "/staff", icon: <Users /> },
+    { title: t("nav.branches"), url: "/branches", icon: <Store /> },
     {
       title: t("nav.counters"),
       url: "/counters",
-      icon: <RiShoppingCartLine />,
+      icon: <ShoppingCart />,
     },
-    { title: t("nav.cron"), url: "/cron", icon: <RiCalendarLine /> },
+    { title: t("nav.cron"), url: "/cron", icon: <CalendarClock /> },
     {
       title: t("nav.telegram"),
       url: "/telegram",
-      icon: <RiNotificationLine />,
+      icon: <Bell />,
     },
   ]
 
   const inventoryMain: NavItem[] = [
-    { title: t("nav.dashboard"), url: "/dashboard", icon: <RiDashboardLine /> },
-    { title: t("nav.stock"), url: "/stock", icon: <RiStoreLine /> },
-    { title: t("nav.expiry"), url: "/expiry", icon: <RiCalendarLine /> },
+    { title: t("nav.dashboard"), url: "/dashboard", icon: <LayoutDashboard /> },
+    { title: t("nav.stock"), url: "/stock", icon: <Warehouse /> },
+    { title: t("nav.expiry"), url: "/expiry", icon: <CalendarClock /> },
     {
       title: t("nav.purchaseOrders"),
       url: "/purchase-orders",
-      icon: <RiTruckLine />,
+      icon: <Truck />,
     },
-    { title: t("nav.grn"), url: "/grn", icon: <RiDownloadLine /> },
+    { title: t("nav.grn"), url: "/grn", icon: <Download /> },
     {
       title: t("nav.groundBalance"),
       url: "/ground-balance",
-      icon: <RiDatabase2Line />,
+      icon: <Database />,
     },
     {
       title: t("nav.transfers"),
       url: "/stock-transfers",
-      icon: <RiListUnordered />,
+      icon: <ArrowLeftRight />,
     },
     {
       title: t("nav.adjustments"),
       url: "/stock-adjustments",
-      icon: <RiListUnordered />,
+      icon: <SlidersHorizontal />,
     },
     {
       title: t("nav.supplierReturns"),
       url: "/supplier-returns",
-      icon: <RiShieldLine />,
+      icon: <Shield />,
     },
-    { title: t("nav.products"), url: "/products", icon: <RiStoreLine /> },
+    { title: t("nav.products"), url: "/products", icon: <Package /> },
     {
       title: t("nav.categories"),
       url: "/categories",
-      icon: <RiListUnordered />,
+      icon: <Layers />,
     },
-    { title: t("nav.units"), url: "/units", icon: <RiListUnordered /> },
-    { title: t("nav.suppliers"), url: "/suppliers", icon: <RiTruckLine /> },
+    { title: t("nav.units"), url: "/units", icon: <List /> },
+    { title: t("nav.suppliers"), url: "/suppliers", icon: <Truck /> },
   ]
 
   const casherMain: NavItem[] = [
-    { title: t("nav.pos"), url: "/pos/terminal", icon: <RiShoppingCartLine /> },
+    { title: t("nav.pos"), url: "/pos/terminal", icon: <ShoppingCart /> },
     {
       title: `${t("nav.saleReturns")} +`,
       url: "/pos/sale-returns/new",
-      icon: <RiShieldLine />,
+      icon: <Shield />,
     },
     {
       title: t("nav.todaySales"),
       url: "/pos/today-sales",
-      icon: <RiFileLine />,
+      icon: <FileText />,
     },
     {
       title: t("nav.handover"),
       url: "/pos/handover",
-      icon: <RiCalendarLine />,
+      icon: <CalendarClock />,
     },
     {
       title: t("nav.endSession"),
       url: "/pos/end-session",
-      icon: <RiTimeLine />,
+      icon: <Clock />,
     },
   ]
 
@@ -188,38 +194,38 @@ export function AppSidebar({ role, userName, userRole }: AppSidebarProps) {
     {
       name: t("nav.reports"),
       url: "/reports/sales",
-      icon: <RiFileChartLine />,
+      icon: <FileBarChart />,
     },
-    { name: t("nav.tax"), url: "/reports/tax", icon: <RiFileLine /> },
+    { name: t("nav.tax"), url: "/reports/tax", icon: <FileText /> },
     {
       name: t("nav.profitLoss"),
       url: "/reports/profit-loss",
-      icon: <RiBarChartLine />,
+      icon: <BarChart3 />,
     },
     {
       name: t("nav.zReport"),
       url: "/reports/z-report",
-      icon: <RiFileChartLine />,
+      icon: <FileBarChart />,
     },
     {
       name: t("nav.cashierPerf"),
       url: "/reports/cashier-performance",
-      icon: <RiBarChartLine />,
+      icon: <BarChart3 />,
     },
     {
       name: t("nav.hourlySales"),
       url: "/reports/hourly-sales",
-      icon: <RiBarChartLine />,
+      icon: <BarChart3 />,
     },
     {
       name: t("nav.inventoryAbc"),
       url: "/reports/inventory-abc",
-      icon: <RiBarChartLine />,
+      icon: <BarChart3 />,
     },
     {
       name: t("nav.inventoryAging"),
       url: "/reports/inventory-aging",
-      icon: <RiArchiveLine />,
+      icon: <Archive />,
     },
   ]
 
@@ -227,59 +233,59 @@ export function AppSidebar({ role, userName, userRole }: AppSidebarProps) {
     {
       name: t("nav.expenses"),
       url: "/expenses",
-      icon: <RiMoneyDollarCircleLine />,
+      icon: <Wallet />,
     },
-    { name: t("nav.glAccounts"), url: "/gl/accounts", icon: <RiFileLine /> },
+    { name: t("nav.glAccounts"), url: "/gl/accounts", icon: <FileText /> },
     {
       name: t("nav.manualJournals"),
       url: "/gl/manual-journals",
-      icon: <RiBookLine />,
+      icon: <BookOpen />,
     },
     {
       name: t("nav.trialBalance"),
       url: "/gl/trial-balance",
-      icon: <RiBarChartLine />,
+      icon: <BarChart3 />,
     },
     {
       name: t("nav.pettyCash"),
       url: "/petty-cash",
-      icon: <RiMoneyDollarCircleLine />,
+      icon: <Wallet />,
     },
     {
       name: t("nav.expenseBudget"),
       url: "/reports/expense-budget",
-      icon: <RiMoneyDollarCircleLine />,
+      icon: <Wallet />,
     },
   ]
 
   const adminSystem: NavDocumentItem[] = [
-    { name: t("nav.auditLogs"), url: "/audit-logs", icon: <RiFileLine /> },
-    { name: t("nav.permissions"), url: "/permissions", icon: <RiKeyLine /> },
-    { name: t("nav.aiModels"), url: "/ai-models", icon: <RiCommandLine /> },
-    { name: t("nav.backup"), url: "/backup", icon: <RiDatabase2Line /> },
+    { name: t("nav.auditLogs"), url: "/audit-logs", icon: <FileText /> },
+    { name: t("nav.permissions"), url: "/permissions", icon: <KeyRound /> },
+    { name: t("nav.aiModels"), url: "/ai-models", icon: <Bot /> },
+    { name: t("nav.backup"), url: "/backup", icon: <Database /> },
   ]
 
   const adminAiReports: NavDocumentItem[] = [
     {
       name: t("nav.demandForecast"),
       url: "/ai/demand-forecasting",
-      icon: <RiBarChartLine />,
+      icon: <BarChart3 />,
     },
     {
       name: t("nav.revenueForecast"),
       url: "/ai/revenue-forecasting",
-      icon: <RiMoneyDollarCircleLine />,
+      icon: <Wallet />,
     },
-    { name: t("nav.basket"), url: "/ai/basket", icon: <RiShoppingCartLine /> },
+    { name: t("nav.basket"), url: "/ai/basket", icon: <ShoppingCart /> },
     {
       name: t("nav.opsAlerts"),
       url: "/ai/alerts",
-      icon: <RiNotificationLine />,
+      icon: <Bell />,
     },
     {
       name: t("nav.marginWatch"),
       url: "/ai/margin-watch",
-      icon: <RiMoneyDollarCircleLine />,
+      icon: <Wallet />,
     },
   ]
 
@@ -290,23 +296,23 @@ export function AppSidebar({ role, userName, userRole }: AppSidebarProps) {
     {
       name: t("nav.demandForecast"),
       url: "/ai/demand-forecasting",
-      icon: <RiBarChartLine />,
+      icon: <BarChart3 />,
     },
     {
       name: t("nav.revenueForecast"),
       url: "/ai/revenue-forecasting",
-      icon: <RiMoneyDollarCircleLine />,
+      icon: <Wallet />,
     },
-    { name: t("nav.basket"), url: "/ai/basket", icon: <RiShoppingCartLine /> },
+    { name: t("nav.basket"), url: "/ai/basket", icon: <ShoppingCart /> },
     {
       name: t("nav.opsAlerts"),
       url: "/ai/alerts",
-      icon: <RiNotificationLine />,
+      icon: <Bell />,
     },
     {
       name: t("nav.marginWatch"),
       url: "/ai/margin-watch",
-      icon: <RiMoneyDollarCircleLine />,
+      icon: <Wallet />,
     },
   ]
 
@@ -318,7 +324,7 @@ export function AppSidebar({ role, userName, userRole }: AppSidebarProps) {
   const aiChat: NavItem = {
     title: t("nav.aiChat"),
     url: "/ai/chat",
-    icon: <RiCommandLine />,
+    icon: <Bot />,
   }
   const adminSections = [
     { label: "Overview", items: [adminMain[0], aiChat] },
@@ -424,23 +430,25 @@ export function AppSidebar({ role, userName, userRole }: AppSidebarProps) {
     {
       title: t("nav.notifications"),
       url: "/notifications",
-      icon: <RiNotificationLine />,
+      icon: <Bell />,
     },
     {
       title: t("nav.settings"),
       url: "/settings/profile",
-      icon: <RiSettingsLine />,
+      icon: <Settings />,
     },
   ]
 
   return (
     <Sidebar collapsible="offcanvas">
-      <SidebarHeader className="flex h-12 min-h-12 justify-center border-b border-sidebar-border px-3 py-2">
+      <SidebarHeader className="flex min-h-16 justify-center border-b border-sidebar-border px-3 py-3">
         <SidebarMenu>
           <SidebarMenuItem>
-            <SidebarMenuButton className="data-[slot=sidebar-menu-button]:p-1.5!">
-              <RiCommandLine className="size-5!" />
-              <span className="font-heading text-base font-semibold tracking-tight">
+            <SidebarMenuButton className="h-auto data-[slot=sidebar-menu-button]:p-1.5!">
+              <span className="flex size-8 items-center justify-center rounded-lg bg-gradient-primary text-sm font-semibold text-white">
+                S
+              </span>
+              <span className="font-heading text-[15px] font-semibold tracking-tight text-sidebar-foreground">
                 SmartRetailAI
               </span>
             </SidebarMenuButton>

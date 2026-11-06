@@ -101,7 +101,7 @@ function StockValueByCategory({ data }: { data: InventoryCategoryPoint[] }) {
               <RechartsTooltip
                 content={<ChartTooltipContent formatter={(value) => formatMoney(Number(value))} />}
               />
-              <Bar dataKey="stockValue" fill="var(--color-stockValue)" radius={[0, 0, 0, 0]} />
+              <Bar dataKey="stockValue" fill="var(--color-stockValue)" radius={[0, 6, 6, 0]} />
             </BarChart>
           </ChartContainer>
         </div>
@@ -125,8 +125,8 @@ function ExpiryExposureChart({ data }: { data: InventoryExpiryPoint[] }) {
               <XAxis dataKey="label" tickLine={false} axisLine={false} />
               <YAxis allowDecimals={false} tickLine={false} axisLine={false} width={34} />
               <RechartsTooltip content={<ChartTooltipContent indicator="dot" />} />
-              <Bar dataKey="quantity" fill="var(--color-quantity)" radius={[0, 0, 0, 0]} />
-              <Bar dataKey="batches" fill="var(--color-batches)" radius={[0, 0, 0, 0]} />
+              <Bar dataKey="quantity" fill="var(--color-quantity)" radius={[6, 6, 0, 0]} />
+              <Bar dataKey="batches" fill="var(--color-batches)" radius={[6, 6, 0, 0]} />
             </BarChart>
           </ChartContainer>
         </div>
@@ -181,7 +181,7 @@ function TopStockChart({ data }: { data: InventoryProductPoint[] }) {
                 tick={{ fill: "var(--muted-foreground)", fontSize: 10 }}
               />
               <RechartsTooltip content={<ChartTooltipContent indicator="dot" />} />
-              <Bar dataKey="quantity" fill="var(--color-quantity)" radius={[0, 0, 0, 0]} />
+              <Bar dataKey="quantity" fill="var(--color-quantity)" radius={[0, 6, 6, 0]} />
             </BarChart>
           </ChartContainer>
         </div>

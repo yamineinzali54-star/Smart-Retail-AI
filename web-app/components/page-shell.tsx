@@ -135,10 +135,10 @@ export function PageShell({
     <div className="mx-auto flex w-full max-w-[1600px] flex-col gap-6 p-4 sm:p-6 lg:p-8">
       <div className="flex flex-col gap-4 border-b border-border pb-5 sm:flex-row sm:items-end sm:justify-between">
         <div>
-          <p className="mb-2 text-xs font-medium tracking-[0.18em] text-muted-foreground uppercase">
+          <p className="mb-2 text-xs font-medium tracking-[0.18em] text-primary uppercase">
             SmartRetailAI
           </p>
-          <h1 className="font-heading text-2xl font-semibold tracking-tight sm:text-3xl">
+          <h1 className="font-heading text-2xl font-semibold tracking-tight text-foreground sm:text-3xl">
             {translateDisplayText(locale, title)}
           </h1>
           {subtitle && (

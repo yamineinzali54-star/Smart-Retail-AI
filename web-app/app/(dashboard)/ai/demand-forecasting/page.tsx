@@ -430,7 +430,7 @@ export default function ForecastingPage() {
         <>
           {isAdmin && (
             <Button
-              variant="outline"
+              variant="ai"
               onClick={startTraining}
               disabled={training}
               aria-label={locale === "my" ? "နောက်ဆုံးဒေတာဖြင့် မော်ဒယ်လေ့ကျင့်ရန်" : "Train model with the latest dataset"}

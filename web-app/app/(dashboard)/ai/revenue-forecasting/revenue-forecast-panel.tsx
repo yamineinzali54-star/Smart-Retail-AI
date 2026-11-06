@@ -289,7 +289,7 @@ export function RevenueForecastPanel({ isAdmin }: { isAdmin: boolean }) {
       allow={["admin", "inventory"]}
       actions={isAdmin && (
         <>
-          <Button variant="outline" onClick={() => void train()} disabled={training}>
+          <Button variant="ai" onClick={() => void train()} disabled={training}>
             {training ? "Training revenue model…" : "Train revenue model"}
           </Button>
           <Button variant="ghost" onClick={() => setShowModelPanel((value) => !value)}>
@@ -422,8 +422,8 @@ export function RevenueForecastPanel({ isAdmin }: { isAdmin: boolean }) {
                     <XAxis dataKey="week" minTickGap={22} />
                     <YAxis tickFormatter={(value: number) => mmk.format(value)} width={78} />
                     <Tooltip formatter={(value) => money(Number(value ?? 0), locale)} />
-                    <Line type="monotone" dataKey="actual" name={locale === "my" ? "အမှန်တကယ်" : "Actual"} stroke="#2563eb" dot={false} />
-                    <Line type="monotone" dataKey="predicted" name={locale === "my" ? "ခန့်မှန်းချက်" : "Predicted"} stroke="#f97316" strokeDasharray="5 4" dot={false} />
+                    <Line type="monotone" dataKey="actual" name={locale === "my" ? "အမှန်တကယ်" : "Actual"} stroke="var(--chart-1)" strokeWidth={2} dot={false} />
+                    <Line type="monotone" dataKey="predicted" name={locale === "my" ? "ခန့်မှန်းချက်" : "Predicted"} stroke="var(--chart-2)" strokeWidth={2} strokeDasharray="5 4" dot={false} />
                   </LineChart>
                 </ResponsiveContainer>
               </CardContent>
@@ -441,7 +441,7 @@ export function RevenueForecastPanel({ isAdmin }: { isAdmin: boolean }) {
                       <XAxis dataKey="name" angle={-35} textAnchor="end" interval={0} />
                       <YAxis tickFormatter={(value: number) => mmk.format(value)} width={78} />
                       <Tooltip formatter={(value) => money(Number(value ?? 0), locale)} />
-                      <Bar dataKey="amount" name={locale === "my" ? "လက်ရှိအပတ်" : "Current week"} fill="#0d9488" radius={[4, 4, 0, 0]} />
+                      <Bar dataKey="amount" name={locale === "my" ? "လက်ရှိအပတ်" : "Current week"} fill="var(--chart-1)" radius={[6, 6, 0, 0]} />
                     </BarChart>
                   </ResponsiveContainer>
                 ) : (

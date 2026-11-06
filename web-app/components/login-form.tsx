@@ -104,7 +104,7 @@ export function LoginForm({ className, ...props }: LoginFormProps) {
   return (
     <div className={cn("flex flex-col gap-6", className)} {...props}>
       <div className="mb-2 text-center">
-        <p className="mb-3 text-xs font-medium tracking-[0.24em] text-muted-foreground uppercase">
+        <p className="mb-3 text-xs font-medium tracking-[0.24em] text-primary uppercase">
           SmartRetailAI
         </p>
         <h1 className="font-heading text-3xl font-semibold tracking-tight text-foreground">

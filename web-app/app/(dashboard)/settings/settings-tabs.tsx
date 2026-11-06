@@ -26,7 +26,7 @@ export function SettingsTabs() {
             aria-current={active ? "page" : undefined}
             className={
               active
-                ? "border-b-2 border-primary px-3 py-2 text-sm font-medium text-foreground"
+                ? "border-b-2 border-primary px-3 py-2 text-sm font-medium text-primary"
                 : "border-b-2 border-transparent px-3 py-2 text-sm text-muted-foreground transition-colors hover:border-border hover:text-foreground"
             }
           >

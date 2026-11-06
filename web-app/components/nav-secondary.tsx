@@ -2,7 +2,9 @@
 
 import * as React from "react"
 import Link from "next/link"
+import { usePathname } from "next/navigation"
 
+import { isNavActive } from "@/lib/nav-active"
 import {
   SidebarGroup,
   SidebarGroupContent,
@@ -21,13 +23,18 @@ export function NavSecondary({
     icon: React.ReactNode
   }[]
 } & React.ComponentPropsWithoutRef<typeof SidebarGroup>) {
+  const pathname = usePathname()
+
   return (
     <SidebarGroup {...props}>
       <SidebarGroupContent>
         <SidebarMenu>
           {items.map((item) => (
             <SidebarMenuItem key={item.title}>
-              <SidebarMenuButton render={<Link href={item.url} />}>
+              <SidebarMenuButton
+                isActive={isNavActive(pathname, item.url)}
+                render={<Link href={item.url} />}
+              >
                 {item.icon}
                 <span>{item.title}</span>
               </SidebarMenuButton>
